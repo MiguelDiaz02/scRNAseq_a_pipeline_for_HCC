@@ -17,15 +17,15 @@ To run the notebook of this project, the following libraries need to be installe
 
 ### Python:
 
-- gdown
-- pandas
-- numpy
-- scipy
-- matplotlib
-- anndata
-- scanpy
-- seaborn
-- scvi
+- gdown (v. 4.7.3)
+- pandas (v. 2.2.0)
+- numpy (v. 1.24.1)
+- scipy (v. 1.13.0)
+- matplotlib (v. 3.8.4)
+- anndata (v. 0.10.5.post1)
+- scanpy (v. 1.10.0.dev198+g89869212)
+- seaborn (v. 0.13.2)
+- scvi (v. 1.0.4)
 
 You can install these dependencies using pip:
 
