@@ -13,7 +13,7 @@ This project is based on the best practices and tutorials from the scientific co
 
 ## Package Installation
 
-To run the notebook of this project, the following libraries need to be installed:
+To run the notebook of this project, the following libraries need to be installed (the version used for this analysis is also added):
 
 ### Python:
 
