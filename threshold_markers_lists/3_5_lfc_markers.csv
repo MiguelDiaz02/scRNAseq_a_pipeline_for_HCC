@@ -1,0 +1,1716 @@
+group,names,logfoldchanges,cell.type,organ
+1,HLA-B,3.6372633,Dendritic cells,Immune system
+1,HLA-B,3.6372633,Dendritic cells,Immune system
+1,HLA-B,3.6372633,Dendritic cells,Immune system
+1,HLA-B,3.6372633,Dendritic cells,Immune system
+1,CCL5,6.727941,Eosinophils,Immune system
+1,CCL5,6.727941,Eosinophils,Immune system
+1,CCL5,6.727941,Gamma delta T cells,Immune system
+1,CCL5,6.727941,Gamma delta T cells,Immune system
+1,CCL5,6.727941,Macrophages,Immune system
+1,CCL5,6.727941,Macrophages,Immune system
+1,CCL5,6.727941,NK cells,Immune system
+1,CCL5,6.727941,NK cells,Immune system
+1,CCL5,6.727941,T cells,Immune system
+1,CCL5,6.727941,T cells,Immune system
+1,CXCR4,4.9707613,B cells,Immune system
+1,CXCR4,4.9707613,B cells,Immune system
+1,CXCR4,4.9707613,Dendritic cells,Immune system
+1,CXCR4,4.9707613,Dendritic cells,Immune system
+1,CXCR4,4.9707613,Mast cells,Immune system
+1,CXCR4,4.9707613,Mast cells,Immune system
+1,CXCR4,4.9707613,Megakaryocytes,Immune system
+1,CXCR4,4.9707613,Megakaryocytes,Immune system
+1,CXCR4,4.9707613,Monocytes,Immune system
+1,CXCR4,4.9707613,Monocytes,Immune system
+1,CXCR4,4.9707613,Natural killer T cells,Immune system
+1,CXCR4,4.9707613,Natural killer T cells,Immune system
+1,CXCR4,4.9707613,NK cells,Immune system
+1,CXCR4,4.9707613,NK cells,Immune system
+1,CXCR4,4.9707613,Plasma cells,Immune system
+1,CXCR4,4.9707613,Plasma cells,Immune system
+1,CXCR4,4.9707613,Plasmacytoid dendritic cells,Immune system
+1,CXCR4,4.9707613,Plasmacytoid dendritic cells,Immune system
+1,CXCR4,4.9707613,T cells,Immune system
+1,CXCR4,4.9707613,T cells,Immune system
+1,JUNB,3.8687584,T cells,Immune system
+1,KLRB1,5.6344137,Natural killer T cells,Immune system
+1,KLRB1,5.6344137,Natural killer T cells,Immune system
+1,KLRB1,5.6344137,NK cells,Immune system
+1,KLRB1,5.6344137,NK cells,Immune system
+1,KLRB1,5.6344137,T cells,Immune system
+1,KLRB1,5.6344137,T cells,Immune system
+1,S100A4,4.001758,Dendritic cells,Immune system
+1,S100A4,4.001758,Dendritic cells,Immune system
+1,S100A4,4.001758,Macrophages,Immune system
+1,S100A4,4.001758,Macrophages,Immune system
+1,S100A4,4.001758,Monocytes,Immune system
+1,S100A4,4.001758,Monocytes,Immune system
+1,S100A4,4.001758,Myeloid-derived suppressor cells,Immune system
+1,S100A4,4.001758,Myeloid-derived suppressor cells,Immune system
+1,S100A4,4.001758,Neutrophils,Immune system
+1,S100A4,4.001758,Neutrophils,Immune system
+1,S100A4,4.001758,NK cells,Immune system
+1,S100A4,4.001758,NK cells,Immune system
+1,S100A4,4.001758,T cells,Immune system
+1,S100A4,4.001758,T cells,Immune system
+1,GZMA,5.9415584,Gamma delta T cells,Immune system
+1,GZMA,5.9415584,Gamma delta T cells,Immune system
+1,GZMA,5.9415584,NK cells,Immune system
+1,GZMA,5.9415584,NK cells,Immune system
+1,GZMA,5.9415584,T cells,Immune system
+1,GZMA,5.9415584,T cells,Immune system
+1,CST7,5.665859,Gamma delta T cells,Immune system
+1,CST7,5.665859,Gamma delta T cells,Immune system
+1,CST7,5.665859,NK cells,Immune system
+1,CST7,5.665859,NK cells,Immune system
+1,KLRD1,4.1357303,Gamma delta T cells,Immune system
+1,KLRD1,4.1357303,Gamma delta T cells,Immune system
+1,KLRD1,4.1357303,NK cells,Immune system
+1,KLRD1,4.1357303,NK cells,Immune system
+1,CD69,5.5308976,B cells,Immune system
+1,CD69,5.5308976,B cells,Immune system
+1,CD69,5.5308976,B cells memory,Immune system
+1,CD69,5.5308976,B cells memory,Immune system
+1,CD69,5.5308976,B cells naive,Immune system
+1,CD69,5.5308976,B cells naive,Immune system
+1,CD69,5.5308976,Basophils,Immune system
+1,CD69,5.5308976,Basophils,Immune system
+1,CD69,5.5308976,Eosinophils,Immune system
+1,CD69,5.5308976,Eosinophils,Immune system
+1,CD69,5.5308976,NK cells,Immune system
+1,CD69,5.5308976,NK cells,Immune system
+1,CD69,5.5308976,T cells,Immune system
+1,CD69,5.5308976,T cells,Immune system
+1,CD69,5.5308976,T cytotoxic cells,Immune system
+1,CD69,5.5308976,T cytotoxic cells,Immune system
+1,CD69,5.5308976,T memory cells,Immune system
+1,CD69,5.5308976,T memory cells,Immune system
+1,CD52,4.817865,B cells,Immune system
+1,CD52,4.817865,B cells naive,Immune system
+1,CD52,4.817865,T cells,Immune system
+1,GZMK,5.4700255,NK cells,Immune system
+1,GZMK,5.4700255,NK cells,Immune system
+1,GZMK,5.4700255,T cells,Immune system
+1,GZMK,5.4700255,T cells,Immune system
+1,GNLY,5.224089,Gamma delta T cells,Immune system
+1,GNLY,5.224089,Gamma delta T cells,Immune system
+1,GNLY,5.224089,NK cells,Immune system
+1,GNLY,5.224089,NK cells,Immune system
+1,LCK,4.630423,T cells,Immune system
+1,LCK,4.630423,T cells,Immune system
+1,LCK,4.630423,T cells,Immune system
+1,LCK,4.630423,T cells,Immune system
+1,LCK,4.630423,T memory cells,Immune system
+1,LCK,4.630423,T memory cells,Immune system
+1,LCK,4.630423,T memory cells,Immune system
+1,LCK,4.630423,T memory cells,Immune system
+1,GZMM,5.2588825,NK cells,Immune system
+1,GZMM,5.2588825,NK cells,Immune system
+1,CD3G,5.7930064,NK cells,Immune system
+1,CD3G,5.7930064,T cells,Immune system
+1,CD3G,5.7930064,T memory cells,Immune system
+1,TBC1D10C,4.583137,T memory cells,Immune system
+1,TBC1D10C,4.583137,T memory cells,Immune system
+1,HOPX,5.414642,Gamma delta T cells,Immune system
+1,HOPX,5.414642,Gamma delta T cells,Immune system
+1,HOPX,5.414642,NK cells,Immune system
+1,HOPX,5.414642,NK cells,Immune system
+1,HOPX,5.414642,T cells,Immune system
+1,HOPX,5.414642,T cells,Immune system
+1,PYHIN1,4.048868,T cells,Immune system
+1,PYHIN1,4.048868,T cells,Immune system
+1,PYHIN1,4.048868,T cells,Immune system
+1,PYHIN1,4.048868,T cells,Immune system
+1,MATK,4.1137276,Megakaryocytes,Immune system
+1,MATK,4.1137276,Megakaryocytes,Immune system
+1,TRGC2,5.3603306,Gamma delta T cells,Immune system
+1,TRGC2,5.3603306,Gamma delta T cells,Immune system
+1,IL2RB,3.55974,Natural killer T cells,Immune system
+1,IL2RB,3.55974,Natural killer T cells,Immune system
+1,IL2RB,3.55974,Natural killer T cells,Immune system
+1,IL2RB,3.55974,Natural killer T cells,Immune system
+1,IL2RB,3.55974,NK cells,Immune system
+1,IL2RB,3.55974,NK cells,Immune system
+1,IL2RB,3.55974,NK cells,Immune system
+1,IL2RB,3.55974,NK cells,Immune system
+1,IL2RB,3.55974,T cells,Immune system
+1,IL2RB,3.55974,T cells,Immune system
+1,IL2RB,3.55974,T cells,Immune system
+1,IL2RB,3.55974,T cells,Immune system
+1,CD8A,3.7416523,Dendritic cells,Immune system
+1,CD8A,3.7416523,NK cells,Immune system
+1,CD8A,3.7416523,Plasmacytoid dendritic cells,Immune system
+1,CD8A,3.7416523,T cells,Immune system
+1,CD8A,3.7416523,T cytotoxic cells,Immune system
+1,CD160,3.6377795,T cells,Immune system
+1,CD160,3.6377795,T cells,Immune system
+1,CLIC3,4.1891,Gamma delta T cells,Immune system
+1,CLIC3,4.1891,Gamma delta T cells,Immune system
+1,CXCR6,4.7351103,T cells,Immune system
+1,CXCR6,4.7351103,T cells,Immune system
+1,CXCR6,4.7351103,T memory cells,Immune system
+1,CXCR6,4.7351103,T memory cells,Immune system
+1,CD27,3.657628,B cells,Immune system
+1,CD27,3.657628,B cells,Immune system
+1,CD27,3.657628,B cells,Immune system
+1,CD27,3.657628,B cells memory,Immune system
+1,CD27,3.657628,B cells memory,Immune system
+1,CD27,3.657628,B cells memory,Immune system
+1,CD27,3.657628,NK cells,Immune system
+1,CD27,3.657628,NK cells,Immune system
+1,CD27,3.657628,NK cells,Immune system
+1,CD27,3.657628,Plasma cells,Immune system
+1,CD27,3.657628,Plasma cells,Immune system
+1,CD27,3.657628,Plasma cells,Immune system
+1,CD27,3.657628,T cytotoxic cells,Immune system
+1,CD27,3.657628,T cytotoxic cells,Immune system
+1,CD27,3.657628,T cytotoxic cells,Immune system
+1,CD27,3.657628,T memory cells,Immune system
+1,CD27,3.657628,T memory cells,Immune system
+1,CD27,3.657628,T memory cells,Immune system
+1,SH2D2A,4.074093,NK cells,Immune system
+1,SH2D2A,4.074093,NK cells,Immune system
+1,TBX21,4.39402,Natural killer T cells,Immune system
+1,TBX21,4.39402,Natural killer T cells,Immune system
+1,TBX21,4.39402,NK cells,Immune system
+1,TBX21,4.39402,NK cells,Immune system
+1,ITGB7,3.631682,Basophils,Immune system
+1,ITGB7,3.631682,Basophils,Immune system
+1,ITGB7,3.631682,T memory cells,Immune system
+1,ITGB7,3.631682,T memory cells,Immune system
+2,RELN,4.4372225,Hepatic stellate cells,Liver
+2,RELN,4.4372225,Hepatic stellate cells,Liver
+2,NR1H4,3.8390503,Hepatic stellate cells,Liver
+2,MEG3,3.5919645,Hepatic stellate cells,Liver
+2,MEG3,3.5919645,Hepatic stellate cells,Liver
+3,CPS1,4.284187,Hepatocytes,Liver
+3,MEG3,3.5091422,Hepatic stellate cells,Liver
+3,MEG3,3.5091422,Hepatic stellate cells,Liver
+3,DPP4,3.7190232,Dendritic cells,Immune system
+3,DPP4,3.7190232,NK cells,Immune system
+3,CYP3A7,3.8115962,Hepatocytes,Liver
+4,CP,5.850413,Hepatocytes,Liver
+4,CP,5.850413,Hepatocytes,Liver
+4,CP,5.850413,Hepatocytes,Liver
+4,CP,5.850413,Hepatocytes,Liver
+4,EXT1,4.8119073,Mast cells,Immune system
+4,CYP2B6,6.495134,Hepatocytes,Liver
+4,CYP2B6,6.495134,Hepatocytes,Liver
+4,CYP2B6,6.495134,Hepatocytes,Liver
+4,ABCC3,5.2190013,Hepatocytes,Liver
+4,GHR,5.2311263,Hepatocytes,Liver
+4,BACH2,5.8155394,B cells,Immune system
+4,BACH2,5.8155394,B cells memory,Immune system
+4,BACH2,5.8155394,B cells naive,Immune system
+4,ABCB4,4.9412184,B cells naive,Immune system
+4,ZBTB16,4.6461873,Natural killer T cells,Immune system
+4,ZBTB16,4.6461873,Natural killer T cells,Immune system
+4,ZBTB16,4.6461873,Natural killer T cells,Immune system
+4,ZBTB16,4.6461873,Natural killer T cells,Immune system
+4,ZBTB16,4.6461873,Natural killer T cells,Immune system
+4,ZBTB16,4.6461873,NK cells,Immune system
+4,ZBTB16,4.6461873,NK cells,Immune system
+4,ZBTB16,4.6461873,NK cells,Immune system
+4,ZBTB16,4.6461873,NK cells,Immune system
+4,ZBTB16,4.6461873,NK cells,Immune system
+4,IL4R,4.392893,B cells naive,Immune system
+4,IL4R,4.392893,Basophils,Immune system
+4,IL4R,4.392893,Myeloid-derived suppressor cells,Immune system
+4,ITGB5,4.0865717,T memory cells,Immune system
+4,BLNK,5.1460466,B cells,Immune system
+4,BLNK,5.1460466,Plasmacytoid dendritic cells,Immune system
+4,ERN1,4.4483504,Plasmacytoid dendritic cells,Immune system
+4,ERN1,4.4483504,Plasmacytoid dendritic cells,Immune system
+4,IL6R,4.012145,T follicular helper cells,Immune system
+4,CUX2,4.530694,Plasmacytoid dendritic cells,Immune system
+4,CYP3A4,4.333354,Hepatocytes,Liver
+4,CYP3A4,4.333354,Hepatocytes,Liver
+4,CYP3A4,4.333354,Hepatocytes,Liver
+4,CYP3A4,4.333354,Hepatocytes,Liver
+4,ADAM19,4.740544,Dendritic cells,Immune system
+4,APBB1IP,4.5030727,T memory cells,Immune system
+4,OAF,3.7255175,Mast cells,Immune system
+4,HAL,4.71849,Hepatocytes,Liver
+4,HAL,4.71849,Hepatocytes,Liver
+4,CYP2C9,3.6173282,Hepatocytes,Liver
+4,CYP2C9,3.6173282,Hepatocytes,Liver
+4,CYP2C9,3.6173282,Hepatocytes,Liver
+4,G0S2,4.7256136,Hepatocytes,Liver
+4,PPARD,3.64903,Kupffer cells,Liver
+4,SOCS2,4.200601,Mast cells,Immune system
+4,MCC,3.8730643,Hepatocytes,Liver
+4,ICAM1,4.3745303,Monocytes,Immune system
+4,ICAM1,4.3745303,Myeloid-derived suppressor cells,Immune system
+4,DYSF,3.9393485,Monocytes,Immune system
+4,HSD11B1,3.689934,Hepatocytes,Liver
+4,HSD11B1,3.689934,Hepatocytes,Liver
+4,HSD11B1,3.689934,Mast cells,Immune system
+4,HSD11B1,3.689934,Mast cells,Immune system
+4,HSD11B1,3.689934,NK cells,Immune system
+4,HSD11B1,3.689934,NK cells,Immune system
+4,MLPH,3.7494733,Mast cells,Immune system
+4,HILPDA,3.6592832,Macrophages,Immune system
+6,FOXM1,3.8379433,Hepatoblasts,Liver
+6,TROAP,4.5468,Gamma delta T cells,Immune system
+7,ALB,4.6323,Cholangiocytes,Liver
+7,ALB,4.6323,Hepatic stellate cells,Liver
+7,ALB,4.6323,Hepatoblasts,Liver
+7,ALB,4.6323,Hepatocytes,Liver
+7,SERPINA1,3.7853928,Dendritic cells,Immune system
+7,SERPINA1,3.7853928,Hepatocytes,Liver
+7,SERPINA1,3.7853928,Monocytes,Immune system
+7,FGA,4.4410067,Hepatocytes,Liver
+7,FGB,3.6638923,Hepatocytes,Liver
+7,ASS1,5.2050524,Dendritic cells,Immune system
+7,ASS1,5.2050524,Dendritic cells,Immune system
+7,ASS1,5.2050524,Dendritic cells,Immune system
+7,ASS1,5.2050524,Dendritic cells,Immune system
+7,ASS1,5.2050524,Dendritic cells,Immune system
+7,ASS1,5.2050524,Dendritic cells,Immune system
+7,ASS1,5.2050524,Hepatocytes,Liver
+7,ASS1,5.2050524,Hepatocytes,Liver
+7,ASS1,5.2050524,Hepatocytes,Liver
+7,ASS1,5.2050524,Hepatocytes,Liver
+7,ASS1,5.2050524,Hepatocytes,Liver
+7,ASS1,5.2050524,Hepatocytes,Liver
+7,FGG,3.6656296,Hepatocytes,Liver
+7,AMBP,3.6080575,Hepatocytes,Liver
+7,TAT,5.9803877,Hepatocytes,Liver
+7,TAT,5.9803877,Hepatocytes,Liver
+7,TAT,5.9803877,Hepatocytes,Liver
+7,TAT,5.9803877,Hepatocytes,Liver
+7,TAT,5.9803877,Hepatocytes,Liver
+7,TAT,5.9803877,Hepatocytes,Liver
+7,TAT,5.9803877,Hepatocytes,Liver
+7,CYP2E1,4.636707,Hepatocytes,Liver
+7,HP,4.8411293,Neutrophils,Immune system
+7,HP,4.8411293,Neutrophils,Immune system
+7,HP,4.8411293,Neutrophils,Immune system
+7,HP,4.8411293,Neutrophils,Immune system
+7,HP,4.8411293,Neutrophils,Immune system
+7,HP,4.8411293,Neutrophils,Immune system
+7,HP,4.8411293,Neutrophils,Immune system
+7,PCK1,4.902667,Hepatocytes,Liver
+7,PCK1,4.902667,Hepatocytes,Liver
+7,APOC3,4.2470036,Hepatocytes,Liver
+7,APOC3,4.2470036,Hepatocytes,Liver
+7,APOC3,4.2470036,Hepatocytes,Liver
+7,GC,3.8114178,Hepatocytes,Liver
+7,CYP3A4,4.861431,Hepatocytes,Liver
+7,CYP3A4,4.861431,Hepatocytes,Liver
+7,CYP3A4,4.861431,Hepatocytes,Liver
+7,CYP3A4,4.861431,Hepatocytes,Liver
+7,HAMP,4.822969,Hepatocytes,Liver
+7,HAMP,4.822969,Hepatocytes,Liver
+7,CYP2C9,4.185829,Hepatocytes,Liver
+7,CYP2C9,4.185829,Hepatocytes,Liver
+7,CYP2C9,4.185829,Hepatocytes,Liver
+7,AZGP1,4.0910177,Hepatocytes,Liver
+7,AZGP1,4.0910177,Hepatocytes,Liver
+7,RHOB,3.8717349,Hepatocytes,Liver
+7,RHOB,3.8717349,Hepatocytes,Liver
+7,SERPINA6,3.637845,Hepatocytes,Liver
+7,CYP2C8,3.8023627,Hepatocytes,Liver
+7,CYP2C8,3.8023627,Hepatocytes,Liver
+7,IL1RN,4.9583488,Monocytes,Immune system
+7,IL1RN,4.9583488,Monocytes,Immune system
+7,G6PC,3.5986397,Hepatocytes,Liver
+7,APOA5,3.5354078,Hepatocytes,Liver
+7,GSTA2,3.8244486,Hepatocytes,Liver
+7,CYP2A6,3.5456169,Hepatocytes,Liver
+7,TTC36,3.7545679,Hepatocytes,Liver
+7,TTC36,3.7545679,Hepatocytes,Liver
+8,AFP,3.8426313,Hepatoblasts,Liver
+8,AFP,3.8426313,Hepatocytes,Liver
+9,HLA-B,4.3324475,Dendritic cells,Immune system
+9,HLA-B,4.3324475,Dendritic cells,Immune system
+9,HLA-B,4.3324475,Dendritic cells,Immune system
+9,HLA-B,4.3324475,Dendritic cells,Immune system
+9,TYROBP,5.728384,Macrophages,Immune system
+9,TYROBP,5.728384,Macrophages,Immune system
+9,TYROBP,5.728384,Macrophages,Immune system
+9,S100A9,6.13593,Dendritic cells,Immune system
+9,S100A9,6.13593,Eosinophils,Immune system
+9,S100A9,6.13593,Megakaryocytes,Immune system
+9,S100A9,6.13593,Monocytes,Immune system
+9,S100A9,6.13593,Myeloid-derived suppressor cells,Immune system
+9,S100A9,6.13593,Neutrophils,Immune system
+9,S100A9,6.13593,T memory cells,Immune system
+9,CTSS,5.039701,Dendritic cells,Immune system
+9,AIF1,6.331834,Dendritic cells,Immune system
+9,AIF1,6.331834,Dendritic cells,Immune system
+9,AIF1,6.331834,Macrophages,Immune system
+9,AIF1,6.331834,Macrophages,Immune system
+9,CD163,5.6580906,Dendritic cells,Immune system
+9,CD163,5.6580906,Dendritic cells,Immune system
+9,CD163,5.6580906,Dendritic cells,Immune system
+9,CD163,5.6580906,Kupffer cells,Liver
+9,CD163,5.6580906,Kupffer cells,Liver
+9,CD163,5.6580906,Kupffer cells,Liver
+9,CD163,5.6580906,Macrophages,Immune system
+9,CD163,5.6580906,Macrophages,Immune system
+9,CD163,5.6580906,Macrophages,Immune system
+9,CD163,5.6580906,Monocytes,Immune system
+9,CD163,5.6580906,Monocytes,Immune system
+9,CD163,5.6580906,Monocytes,Immune system
+9,LYZ,3.9497907,Dendritic cells,Immune system
+9,LYZ,3.9497907,Kupffer cells,Liver
+9,LYZ,3.9497907,Monocytes,Immune system
+9,LYZ,3.9497907,Neutrophils,Immune system
+9,S100A4,4.8368225,Dendritic cells,Immune system
+9,S100A4,4.8368225,Dendritic cells,Immune system
+9,S100A4,4.8368225,Macrophages,Immune system
+9,S100A4,4.8368225,Macrophages,Immune system
+9,S100A4,4.8368225,Monocytes,Immune system
+9,S100A4,4.8368225,Monocytes,Immune system
+9,S100A4,4.8368225,Myeloid-derived suppressor cells,Immune system
+9,S100A4,4.8368225,Myeloid-derived suppressor cells,Immune system
+9,S100A4,4.8368225,Neutrophils,Immune system
+9,S100A4,4.8368225,Neutrophils,Immune system
+9,S100A4,4.8368225,NK cells,Immune system
+9,S100A4,4.8368225,NK cells,Immune system
+9,S100A4,4.8368225,T cells,Immune system
+9,S100A4,4.8368225,T cells,Immune system
+9,FGL2,3.946122,Macrophages,Immune system
+9,FGL2,3.946122,Monocytes,Immune system
+9,ANXA1,4.0037804,Dendritic cells,Immune system
+9,CSTA,5.83998,Monocytes,Immune system
+9,ITGB2,3.7154107,Natural killer T cells,Immune system
+9,ITGB2,3.7154107,Natural killer T cells,Immune system
+9,CLEC7A,4.753436,Dendritic cells,Immune system
+9,CLEC7A,4.753436,Macrophages,Immune system
+9,CLEC7A,4.753436,Monocytes,Immune system
+9,CFD,4.387272,Mast cells,Immune system
+9,CFD,4.387272,Mast cells,Immune system
+9,PYCARD,3.8924167,Monocytes,Immune system
+9,MS4A4A,3.8041534,Macrophages,Immune system
+9,MS4A4A,3.8041534,Macrophages,Immune system
+9,MS4A4A,3.8041534,Plasma cells,Immune system
+9,MS4A4A,3.8041534,Plasma cells,Immune system
+9,RGS2,3.9097335,Monocytes,Immune system
+9,S100A12,6.9700055,Monocytes,Immune system
+9,SPI1,3.6544907,Monocytes,Immune system
+9,SPI1,3.6544907,Monocytes,Immune system
+9,CFP,3.9517486,Mast cells,Immune system
+9,CFP,3.9517486,Mast cells,Immune system
+9,CFP,3.9517486,Monocytes,Immune system
+9,CFP,3.9517486,Monocytes,Immune system
+9,CFP,3.9517486,Neutrophils,Immune system
+9,CFP,3.9517486,Neutrophils,Immune system
+9,IL1R2,4.648622,Neutrophils,Immune system
+9,SLC7A7,3.810872,Macrophages,Immune system
+9,FPR1,4.601979,Macrophages,Immune system
+9,ADA2,3.6273713,Monocytes,Immune system
+9,KLF4,3.9230108,Plasma cells,Immune system
+9,KLF4,3.9230108,Plasma cells,Immune system
+9,FGR,3.8622346,Macrophages,Immune system
+9,FGR,3.8622346,Macrophages,Immune system
+9,FGR,3.8622346,Macrophages,Immune system
+9,HLA-DMA,4.197717,Dendritic cells,Immune system
+9,CD5L,3.547488,Macrophages,Immune system
+9,CD5L,3.547488,Macrophages,Immune system
+9,SLC11A1,4.0692086,Dendritic cells,Immune system
+9,SLC11A1,4.0692086,Dendritic cells,Immune system
+9,SLC11A1,4.0692086,Kupffer cells,Liver
+9,SLC11A1,4.0692086,Kupffer cells,Liver
+9,SLC11A1,4.0692086,Macrophages,Immune system
+9,SLC11A1,4.0692086,Macrophages,Immune system
+9,SLC11A1,4.0692086,Red pulp macrophages,Immune system
+9,SLC11A1,4.0692086,Red pulp macrophages,Immune system
+9,SLC31A2,3.6072934,Mast cells,Immune system
+9,CLEC12A,3.5028129,Monocytes,Immune system
+9,PLBD1,3.733108,Dendritic cells,Immune system
+9,SIGLEC10,4.1219416,Eosinophils,Immune system
+9,SIGLEC10,4.1219416,Eosinophils,Immune system
+9,GPBAR1,3.905942,Cholangiocytes,Liver
+11,VCAN,3.8425467,Dendritic cells,Immune system
+11,VCAN,3.8425467,Monocytes,Immune system
+11,LEF1,3.5510836,T cells,Immune system
+11,LEF1,3.5510836,T cells,Immune system
+11,LEF1,3.5510836,T memory cells,Immune system
+11,LEF1,3.5510836,T memory cells,Immune system
+12,DNASE1L3,6.06228,Dendritic cells,Immune system
+12,DNASE1L3,6.06228,Dendritic cells,Immune system
+12,DNASE1L3,6.06228,Dendritic cells,Immune system
+12,DNASE1L3,6.06228,Kupffer cells,Liver
+12,DNASE1L3,6.06228,Kupffer cells,Liver
+12,DNASE1L3,6.06228,Kupffer cells,Liver
+12,DNASE1L3,6.06228,Macrophages,Immune system
+12,DNASE1L3,6.06228,Macrophages,Immune system
+12,DNASE1L3,6.06228,Macrophages,Immune system
+12,TIMP1,4.952708,Hepatic stellate cells,Liver
+12,TIMP1,4.952708,Hepatic stellate cells,Liver
+12,STAB1,5.1643085,Macrophages,Immune system
+12,STAB1,5.1643085,Macrophages,Immune system
+12,ID1,3.752067,Basophils,Immune system
+12,ACP5,4.6625414,Monocytes,Immune system
+12,ACP5,4.6625414,Monocytes,Immune system
+12,ACP5,4.6625414,T memory cells,Immune system
+12,ACP5,4.6625414,T memory cells,Immune system
+12,CLEC1B,5.098713,Kupffer cells,Liver
+12,CLEC1B,5.098713,Kupffer cells,Liver
+12,KLF4,3.616867,Plasma cells,Immune system
+12,KLF4,3.616867,Plasma cells,Immune system
+12,PPP1R14A,3.8604186,Dendritic cells,Immune system
+12,PPP1R14A,3.8604186,Dendritic cells,Immune system
+12,LTC4S,3.7404404,Basophils,Immune system
+12,LTC4S,3.7404404,Eosinophils,Immune system
+12,LTC4S,3.7404404,Mast cells,Immune system
+14,SLC8A1,6.0429044,Hepatic stellate cells,Liver
+14,SLC8A1,6.0429044,Hepatic stellate cells,Liver
+14,DOCK2,6.030192,NK cells,Immune system
+14,DOCK2,6.030192,NK cells,Immune system
+14,DOCK2,6.030192,NK cells,Immune system
+14,PTPRC,4.590299,B cells,Immune system
+14,PTPRC,4.590299,B cells,Immune system
+14,PTPRC,4.590299,B cells,Immune system
+14,PTPRC,4.590299,B cells memory,Immune system
+14,PTPRC,4.590299,B cells memory,Immune system
+14,PTPRC,4.590299,B cells memory,Immune system
+14,PTPRC,4.590299,Dendritic cells,Immune system
+14,PTPRC,4.590299,Dendritic cells,Immune system
+14,PTPRC,4.590299,Dendritic cells,Immune system
+14,PTPRC,4.590299,Monocytes,Immune system
+14,PTPRC,4.590299,Monocytes,Immune system
+14,PTPRC,4.590299,Monocytes,Immune system
+14,PTPRC,4.590299,T memory cells,Immune system
+14,PTPRC,4.590299,T memory cells,Immune system
+14,PTPRC,4.590299,T memory cells,Immune system
+14,ARHGAP15,5.041897,T memory cells,Immune system
+14,ARHGAP15,5.041897,T memory cells,Immune system
+14,ARHGAP15,5.041897,T memory cells,Immune system
+14,DOCK8,4.069305,Neutrophils,Immune system
+14,LYN,4.516686,Monocytes,Immune system
+14,MARCH1,5.05403,Macrophages,Immune system
+14,FLI1,4.523382,B cells,Immune system
+14,FLI1,4.523382,B cells,Immune system
+14,FLI1,4.523382,B cells,Immune system
+14,FLI1,4.523382,B cells,Immune system
+14,FLI1,4.523382,Megakaryocytes,Immune system
+14,FLI1,4.523382,Megakaryocytes,Immune system
+14,FLI1,4.523382,Megakaryocytes,Immune system
+14,FLI1,4.523382,Megakaryocytes,Immune system
+14,MSR1,5.0917096,Kupffer cells,Liver
+14,SYK,5.5251703,Macrophages,Immune system
+14,ACER3,3.8619223,Mast cells,Immune system
+14,NPL,4.7082634,Basophils,Immune system
+14,NPL,4.7082634,Basophils,Immune system
+14,MITF,5.556862,B cells naive,Immune system
+14,MITF,5.556862,Mast cells,Immune system
+14,SAMSN1,4.843816,Macrophages,Immune system
+14,SAMSN1,4.843816,Macrophages,Immune system
+14,MRC1,3.7636197,Macrophages,Immune system
+14,MRC1,3.7636197,Macrophages,Immune system
+14,MRC1,3.7636197,Monocytes,Immune system
+14,MRC1,3.7636197,Monocytes,Immune system
+14,HCK,5.217591,Dendritic cells,Immune system
+14,HCK,5.217591,Dendritic cells,Immune system
+14,HCK,5.217591,Monocytes,Immune system
+14,HCK,5.217591,Monocytes,Immune system
+14,CD163,3.770364,Dendritic cells,Immune system
+14,CD163,3.770364,Dendritic cells,Immune system
+14,CD163,3.770364,Dendritic cells,Immune system
+14,CD163,3.770364,Kupffer cells,Liver
+14,CD163,3.770364,Kupffer cells,Liver
+14,CD163,3.770364,Kupffer cells,Liver
+14,CD163,3.770364,Macrophages,Immune system
+14,CD163,3.770364,Macrophages,Immune system
+14,CD163,3.770364,Macrophages,Immune system
+14,CD163,3.770364,Monocytes,Immune system
+14,CD163,3.770364,Monocytes,Immune system
+14,CD163,3.770364,Monocytes,Immune system
+14,CSF1R,4.6034184,Kupffer cells,Liver
+14,CSF1R,4.6034184,Kupffer cells,Liver
+14,CSF1R,4.6034184,Macrophages,Immune system
+14,CSF1R,4.6034184,Macrophages,Immune system
+14,CSF1R,4.6034184,Monocytes,Immune system
+14,CSF1R,4.6034184,Monocytes,Immune system
+14,ENTPD1,4.373946,T regulatory cells,Immune system
+14,ITGAX,5.421495,Basophils,Immune system
+14,ITGAX,5.421495,Basophils,Immune system
+14,ITGAX,5.421495,Dendritic cells,Immune system
+14,ITGAX,5.421495,Dendritic cells,Immune system
+14,ITGAX,5.421495,Macrophages,Immune system
+14,ITGAX,5.421495,Macrophages,Immune system
+14,ITGAX,5.421495,Monocytes,Immune system
+14,ITGAX,5.421495,Monocytes,Immune system
+14,ITGAX,5.421495,Neutrophils,Immune system
+14,ITGAX,5.421495,Neutrophils,Immune system
+14,ITGAX,5.421495,NK cells,Immune system
+14,ITGAX,5.421495,NK cells,Immune system
+14,NABP1,3.9658763,T cells,Immune system
+14,IKZF1,3.94104,T memory cells,Immune system
+14,IKZF1,3.94104,T memory cells,Immune system
+14,IKZF1,3.94104,T memory cells,Immune system
+14,CD86,5.2640944,B cells,Immune system
+14,CD86,5.2640944,B cells memory,Immune system
+14,CD86,5.2640944,Dendritic cells,Immune system
+14,CD86,5.2640944,Macrophages,Immune system
+14,CD86,5.2640944,Monocytes,Immune system
+14,CD86,5.2640944,Plasmacytoid dendritic cells,Immune system
+14,CD86,5.2640944,Red pulp macrophages,Immune system
+14,CMKLR1,4.701222,Monocytes,Immune system
+14,CMKLR1,4.701222,Monocytes,Immune system
+14,EPSTI1,4.206011,T memory cells,Immune system
+14,BCL2,3.7171354,T cells,Immune system
+14,BCL2,3.7171354,T cells,Immune system
+14,BCL2,3.7171354,T cells,Immune system
+14,BCL2,3.7171354,T memory cells,Immune system
+14,BCL2,3.7171354,T memory cells,Immune system
+14,BCL2,3.7171354,T memory cells,Immune system
+14,MS4A4A,3.9643621,Macrophages,Immune system
+14,MS4A4A,3.9643621,Macrophages,Immune system
+14,MS4A4A,3.9643621,Plasma cells,Immune system
+14,MS4A4A,3.9643621,Plasma cells,Immune system
+14,GPNMB,3.9676728,Macrophages,Immune system
+14,GPNMB,3.9676728,Macrophages,Immune system
+14,CYTH4,4.5890822,Macrophages,Immune system
+14,LY86,4.7975283,B cells memory,Immune system
+14,LY86,4.7975283,B cells naive,Immune system
+14,F13A1,5.0051484,Macrophages,Immune system
+14,F13A1,5.0051484,Megakaryocytes,Immune system
+14,KLHL6,4.4307833,B cells,Immune system
+14,KLHL6,4.4307833,B cells,Immune system
+14,KLHL6,4.4307833,B cells,Immune system
+14,PILRA,3.7370884,Monocytes,Immune system
+14,PILRA,3.7370884,Neutrophils,Immune system
+14,P2RX7,3.5650566,T follicular helper cells,Immune system
+14,CD83,3.8644228,Dendritic cells,Immune system
+14,CD83,3.8644228,Macrophages,Immune system
+14,CD83,3.8644228,Plasmacytoid dendritic cells,Immune system
+14,FMNL1,3.535047,Macrophages,Immune system
+14,FMNL1,3.535047,Macrophages,Immune system
+14,FMNL1,3.535047,T cells,Immune system
+14,FMNL1,3.535047,T cells,Immune system
+14,ALOX5,4.0321717,B cells memory,Immune system
+14,ALOX5,4.0321717,B cells memory,Immune system
+14,CD200R1,5.02268,Macrophages,Immune system
+14,CD200R1,5.02268,Macrophages,Immune system
+14,BTK,4.269918,Mast cells,Immune system
+14,SLC15A3,3.5318384,Kupffer cells,Liver
+14,SLC15A3,3.5318384,Macrophages,Immune system
+14,LAIR1,3.65997,B cells,Immune system
+14,DOK3,3.9307787,B cells,Immune system
+14,IL2RA,4.3945475,B cells naive,Immune system
+14,IL2RA,4.3945475,B cells naive,Immune system
+14,IL2RA,4.3945475,Mast cells,Immune system
+14,IL2RA,4.3945475,Mast cells,Immune system
+14,IL2RA,4.3945475,Megakaryocytes,Immune system
+14,IL2RA,4.3945475,Megakaryocytes,Immune system
+14,IL2RA,4.3945475,T cells,Immune system
+14,IL2RA,4.3945475,T cells,Immune system
+14,IL2RA,4.3945475,T regulatory cells,Immune system
+14,IL2RA,4.3945475,T regulatory cells,Immune system
+14,DAPP1,4.4106517,Mast cells,Immune system
+14,LILRB4,3.5425994,Macrophages,Immune system
+14,SLC37A2,3.9700844,Macrophages,Immune system
+14,MILR1,4.6936584,Mast cells,Immune system
+14,ARL11,3.6765814,Macrophages,Immune system
+15,RELN,4.2477894,Hepatic stellate cells,Liver
+15,RELN,4.2477894,Hepatic stellate cells,Liver
+15,ASPM,4.4005184,Gamma delta T cells,Immune system
+16,ORM1,5.7158713,Hepatocytes,Liver
+16,ORM1,5.7158713,Hepatocytes,Liver
+16,ORM1,5.7158713,Hepatocytes,Liver
+16,ORM1,5.7158713,Hepatocytes,Liver
+16,APOC3,4.5029597,Hepatocytes,Liver
+16,APOC3,4.5029597,Hepatocytes,Liver
+16,APOC3,4.5029597,Hepatocytes,Liver
+16,HP,3.9708776,Neutrophils,Immune system
+16,HP,3.9708776,Neutrophils,Immune system
+16,HP,3.9708776,Neutrophils,Immune system
+16,HP,3.9708776,Neutrophils,Immune system
+16,HP,3.9708776,Neutrophils,Immune system
+16,HP,3.9708776,Neutrophils,Immune system
+16,HP,3.9708776,Neutrophils,Immune system
+16,TTR,3.9088454,Hepatocytes,Liver
+16,TTR,3.9088454,Hepatocytes,Liver
+16,BCHE,3.582807,Hepatocytes,Liver
+16,BCHE,3.582807,Hepatocytes,Liver
+17,APOC3,5.384699,Hepatocytes,Liver
+17,APOC3,5.384699,Hepatocytes,Liver
+17,APOC3,5.384699,Hepatocytes,Liver
+17,ORM1,6.4861937,Hepatocytes,Liver
+17,ORM1,6.4861937,Hepatocytes,Liver
+17,ORM1,6.4861937,Hepatocytes,Liver
+17,ORM1,6.4861937,Hepatocytes,Liver
+17,HP,5.39843,Neutrophils,Immune system
+17,HP,5.39843,Neutrophils,Immune system
+17,HP,5.39843,Neutrophils,Immune system
+17,HP,5.39843,Neutrophils,Immune system
+17,HP,5.39843,Neutrophils,Immune system
+17,HP,5.39843,Neutrophils,Immune system
+17,HP,5.39843,Neutrophils,Immune system
+17,TAT,4.8128605,Hepatocytes,Liver
+17,TAT,4.8128605,Hepatocytes,Liver
+17,TAT,4.8128605,Hepatocytes,Liver
+17,TAT,4.8128605,Hepatocytes,Liver
+17,TAT,4.8128605,Hepatocytes,Liver
+17,TAT,4.8128605,Hepatocytes,Liver
+17,TAT,4.8128605,Hepatocytes,Liver
+17,AZGP1,4.205747,Hepatocytes,Liver
+17,AZGP1,4.205747,Hepatocytes,Liver
+17,TTR,3.981122,Hepatocytes,Liver
+17,TTR,3.981122,Hepatocytes,Liver
+17,CYP2C8,3.8466084,Hepatocytes,Liver
+17,CYP2C8,3.8466084,Hepatocytes,Liver
+17,HSD11B1,3.8072064,Hepatocytes,Liver
+17,HSD11B1,3.8072064,Hepatocytes,Liver
+17,HSD11B1,3.8072064,Mast cells,Immune system
+17,HSD11B1,3.8072064,Mast cells,Immune system
+17,HSD11B1,3.8072064,NK cells,Immune system
+17,HSD11B1,3.8072064,NK cells,Immune system
+17,TTC36,3.5548582,Hepatocytes,Liver
+17,TTC36,3.5548582,Hepatocytes,Liver
+17,BCHE,3.9941816,Hepatocytes,Liver
+17,BCHE,3.9941816,Hepatocytes,Liver
+17,FOXA2,4.4685535,Hepatocytes,Liver
+18,ORM1,4.917141,Hepatocytes,Liver
+18,ORM1,4.917141,Hepatocytes,Liver
+18,ORM1,4.917141,Hepatocytes,Liver
+18,ORM1,4.917141,Hepatocytes,Liver
+19,FST,3.545138,Hepatocytes,Liver
+19,CSF3R,3.766971,Monocytes,Immune system
+19,CSF3R,3.766971,Neutrophils,Immune system
+20,HP,3.7057257,Neutrophils,Immune system
+20,HP,3.7057257,Neutrophils,Immune system
+20,HP,3.7057257,Neutrophils,Immune system
+20,HP,3.7057257,Neutrophils,Immune system
+20,HP,3.7057257,Neutrophils,Immune system
+20,HP,3.7057257,Neutrophils,Immune system
+20,HP,3.7057257,Neutrophils,Immune system
+20,TAT,4.45055,Hepatocytes,Liver
+20,TAT,4.45055,Hepatocytes,Liver
+20,TAT,4.45055,Hepatocytes,Liver
+20,TAT,4.45055,Hepatocytes,Liver
+20,TAT,4.45055,Hepatocytes,Liver
+20,TAT,4.45055,Hepatocytes,Liver
+20,TAT,4.45055,Hepatocytes,Liver
+20,ASS1,3.6758583,Dendritic cells,Immune system
+20,ASS1,3.6758583,Dendritic cells,Immune system
+20,ASS1,3.6758583,Dendritic cells,Immune system
+20,ASS1,3.6758583,Dendritic cells,Immune system
+20,ASS1,3.6758583,Dendritic cells,Immune system
+20,ASS1,3.6758583,Dendritic cells,Immune system
+20,ASS1,3.6758583,Hepatocytes,Liver
+20,ASS1,3.6758583,Hepatocytes,Liver
+20,ASS1,3.6758583,Hepatocytes,Liver
+20,ASS1,3.6758583,Hepatocytes,Liver
+20,ASS1,3.6758583,Hepatocytes,Liver
+20,ASS1,3.6758583,Hepatocytes,Liver
+20,STAB1,5.0031047,Macrophages,Immune system
+20,STAB1,5.0031047,Macrophages,Immune system
+20,CTGF,4.982873,Hepatic stellate cells,Liver
+20,CD4,3.855499,Plasmacytoid dendritic cells,Immune system
+20,CD4,3.855499,T cells,Immune system
+20,CD4,3.855499,T follicular helper cells,Immune system
+20,CD4,3.855499,T memory cells,Immune system
+20,CD4,3.855499,T regulatory cells,Immune system
+20,GPM6A,5.111455,Mast cells,Immune system
+20,GPM6A,5.111455,Mast cells,Immune system
+20,ST6GALNAC3,3.6544023,Mast cells,Immune system
+20,ST6GALNAC3,3.6544023,Mast cells,Immune system
+20,ST6GALNAC3,3.6544023,Mast cells,Immune system
+21,TCF4,5.900367,Plasmacytoid dendritic cells,Immune system
+21,TCF4,5.900367,Plasmacytoid dendritic cells,Immune system
+21,ST6GALNAC3,5.612505,Mast cells,Immune system
+21,ST6GALNAC3,5.612505,Mast cells,Immune system
+21,ST6GALNAC3,5.612505,Mast cells,Immune system
+21,PECAM1,5.2080345,Megakaryocytes,Immune system
+21,PECAM1,5.2080345,Monocytes,Immune system
+21,PECAM1,5.2080345,Neutrophils,Immune system
+21,IGFBP7,3.607667,Basophils,Immune system
+21,IGFBP7,3.607667,Basophils,Immune system
+21,IGFBP7,3.607667,Hepatic stellate cells,Liver
+21,IGFBP7,3.607667,Hepatic stellate cells,Liver
+21,EBF1,6.6295567,B cells,Immune system
+21,EBF1,6.6295567,B cells,Immune system
+21,FLI1,4.436672,B cells,Immune system
+21,FLI1,4.436672,B cells,Immune system
+21,FLI1,4.436672,B cells,Immune system
+21,FLI1,4.436672,B cells,Immune system
+21,FLI1,4.436672,Megakaryocytes,Immune system
+21,FLI1,4.436672,Megakaryocytes,Immune system
+21,FLI1,4.436672,Megakaryocytes,Immune system
+21,FLI1,4.436672,Megakaryocytes,Immune system
+21,TCF7L1,3.9050982,Mast cells,Immune system
+21,ADAMTS9,4.02039,Mast cells,Immune system
+21,ADAMTS9,4.02039,Mast cells,Immune system
+21,ADAMTS9,4.02039,Mast cells,Immune system
+21,VWF,4.8969193,Megakaryocytes,Immune system
+21,RASGRP3,4.61523,B cells,Immune system
+21,RASGRP3,4.61523,B cells,Immune system
+21,RASGRP3,4.61523,Plasma cells,Immune system
+21,RASGRP3,4.61523,Plasma cells,Immune system
+21,NFATC1,3.6462097,Megakaryocytes,Immune system
+21,NFATC1,3.6462097,Megakaryocytes,Immune system
+21,KCNN2,3.729284,Cholangiocytes,Liver
+22,TIMP1,4.723909,Hepatic stellate cells,Liver
+22,TIMP1,4.723909,Hepatic stellate cells,Liver
+22,DNASE1L3,5.2130947,Dendritic cells,Immune system
+22,DNASE1L3,5.2130947,Dendritic cells,Immune system
+22,DNASE1L3,5.2130947,Dendritic cells,Immune system
+22,DNASE1L3,5.2130947,Kupffer cells,Liver
+22,DNASE1L3,5.2130947,Kupffer cells,Liver
+22,DNASE1L3,5.2130947,Kupffer cells,Liver
+22,DNASE1L3,5.2130947,Macrophages,Immune system
+22,DNASE1L3,5.2130947,Macrophages,Immune system
+22,DNASE1L3,5.2130947,Macrophages,Immune system
+22,CLEC1B,6.0877676,Kupffer cells,Liver
+22,CLEC1B,6.0877676,Kupffer cells,Liver
+22,ACP5,3.7040668,Monocytes,Immune system
+22,ACP5,3.7040668,Monocytes,Immune system
+22,ACP5,3.7040668,T memory cells,Immune system
+22,ACP5,3.7040668,T memory cells,Immune system
+22,PPP1R14A,3.5991352,Dendritic cells,Immune system
+22,PPP1R14A,3.5991352,Dendritic cells,Immune system
+24,ORM1,4.096002,Hepatocytes,Liver
+24,ORM1,4.096002,Hepatocytes,Liver
+24,ORM1,4.096002,Hepatocytes,Liver
+24,ORM1,4.096002,Hepatocytes,Liver
+24,AIF1,4.6996174,Dendritic cells,Immune system
+24,AIF1,4.6996174,Dendritic cells,Immune system
+24,AIF1,4.6996174,Macrophages,Immune system
+24,AIF1,4.6996174,Macrophages,Immune system
+24,TYROBP,3.7913043,Macrophages,Immune system
+24,TYROBP,3.7913043,Macrophages,Immune system
+24,TYROBP,3.7913043,Macrophages,Immune system
+25,IGFBP7,4.2808127,Basophils,Immune system
+25,IGFBP7,4.2808127,Basophils,Immune system
+25,IGFBP7,4.2808127,Hepatic stellate cells,Liver
+25,IGFBP7,4.2808127,Hepatic stellate cells,Liver
+25,ADAMTS9,4.38138,Mast cells,Immune system
+25,ADAMTS9,4.38138,Mast cells,Immune system
+25,ADAMTS9,4.38138,Mast cells,Immune system
+25,COL3A1,4.7149405,Hepatic stellate cells,Liver
+25,COL1A2,4.692394,Hepatic stellate cells,Liver
+25,JAG1,4.491144,Cholangiocytes,Liver
+25,COL1A1,4.3436847,Hepatic stellate cells,Liver
+25,HGF,6.1628666,Basophils,Immune system
+25,HGF,6.1628666,Hepatic stellate cells,Liver
+25,EBF1,4.641926,B cells,Immune system
+25,EBF1,4.641926,B cells,Immune system
+25,DCN,4.3577256,Hepatic stellate cells,Liver
+25,RNF180,3.6025443,Mast cells,Immune system
+25,FHL2,4.050724,NK cells,Immune system
+25,SAMD5,4.6524124,Hepatocytes,Liver
+25,PCDH7,4.8147545,Mast cells,Immune system
+25,RGS5,3.6675563,Hepatic stellate cells,Liver
+25,NOTCH3,4.1312323,T cells,Immune system
+25,OSBPL5,3.507162,Basophils,Immune system
+25,OSBPL5,3.507162,Basophils,Immune system
+25,GABBR1,3.5110993,Basophils,Immune system
+25,GABBR1,3.5110993,Basophils,Immune system
+27,HP,3.7654462,Neutrophils,Immune system
+27,HP,3.7654462,Neutrophils,Immune system
+27,HP,3.7654462,Neutrophils,Immune system
+27,HP,3.7654462,Neutrophils,Immune system
+27,HP,3.7654462,Neutrophils,Immune system
+27,HP,3.7654462,Neutrophils,Immune system
+27,HP,3.7654462,Neutrophils,Immune system
+27,TAT,4.338032,Hepatocytes,Liver
+27,TAT,4.338032,Hepatocytes,Liver
+27,TAT,4.338032,Hepatocytes,Liver
+27,TAT,4.338032,Hepatocytes,Liver
+27,TAT,4.338032,Hepatocytes,Liver
+27,TAT,4.338032,Hepatocytes,Liver
+27,TAT,4.338032,Hepatocytes,Liver
+27,ASS1,3.523085,Dendritic cells,Immune system
+27,ASS1,3.523085,Dendritic cells,Immune system
+27,ASS1,3.523085,Dendritic cells,Immune system
+27,ASS1,3.523085,Dendritic cells,Immune system
+27,ASS1,3.523085,Dendritic cells,Immune system
+27,ASS1,3.523085,Dendritic cells,Immune system
+27,ASS1,3.523085,Hepatocytes,Liver
+27,ASS1,3.523085,Hepatocytes,Liver
+27,ASS1,3.523085,Hepatocytes,Liver
+27,ASS1,3.523085,Hepatocytes,Liver
+27,ASS1,3.523085,Hepatocytes,Liver
+27,ASS1,3.523085,Hepatocytes,Liver
+27,CD6,3.7696137,T cells,Immune system
+27,CD6,3.7696137,T cells,Immune system
+27,CD6,3.7696137,T cells,Immune system
+28,TAT,4.7135744,Hepatocytes,Liver
+28,TAT,4.7135744,Hepatocytes,Liver
+28,TAT,4.7135744,Hepatocytes,Liver
+28,TAT,4.7135744,Hepatocytes,Liver
+28,TAT,4.7135744,Hepatocytes,Liver
+28,TAT,4.7135744,Hepatocytes,Liver
+28,TAT,4.7135744,Hepatocytes,Liver
+28,ASS1,4.0381584,Dendritic cells,Immune system
+28,ASS1,4.0381584,Dendritic cells,Immune system
+28,ASS1,4.0381584,Dendritic cells,Immune system
+28,ASS1,4.0381584,Dendritic cells,Immune system
+28,ASS1,4.0381584,Dendritic cells,Immune system
+28,ASS1,4.0381584,Dendritic cells,Immune system
+28,ASS1,4.0381584,Hepatocytes,Liver
+28,ASS1,4.0381584,Hepatocytes,Liver
+28,ASS1,4.0381584,Hepatocytes,Liver
+28,ASS1,4.0381584,Hepatocytes,Liver
+28,ASS1,4.0381584,Hepatocytes,Liver
+28,ASS1,4.0381584,Hepatocytes,Liver
+28,HP,3.7153876,Neutrophils,Immune system
+28,HP,3.7153876,Neutrophils,Immune system
+28,HP,3.7153876,Neutrophils,Immune system
+28,HP,3.7153876,Neutrophils,Immune system
+28,HP,3.7153876,Neutrophils,Immune system
+28,HP,3.7153876,Neutrophils,Immune system
+28,HP,3.7153876,Neutrophils,Immune system
+28,SLC40A1,4.3352876,Kupffer cells,Liver
+28,SLC40A1,4.3352876,Red pulp macrophages,Immune system
+28,CD74,3.8828275,B cells,Immune system
+28,CD74,3.8828275,B cells naive,Immune system
+28,CD74,3.8828275,Macrophages,Immune system
+28,CD74,3.8828275,Plasma cells,Immune system
+28,CD5L,6.1953626,Macrophages,Immune system
+28,CD5L,6.1953626,Macrophages,Immune system
+28,CYP3A4,3.5204136,Hepatocytes,Liver
+28,CYP3A4,3.5204136,Hepatocytes,Liver
+28,CYP3A4,3.5204136,Hepatocytes,Liver
+28,CYP3A4,3.5204136,Hepatocytes,Liver
+28,AXL,5.443167,Dendritic cells,Immune system
+28,VCAM1,3.7819717,Red pulp macrophages,Immune system
+28,CD68,4.479151,Macrophages,Immune system
+28,CD68,4.479151,Monocytes,Immune system
+28,SIGLEC1,5.501268,Red pulp macrophages,Immune system
+28,SIGLEC1,5.501268,Red pulp macrophages,Immune system
+28,CFD,4.938177,Mast cells,Immune system
+28,CFD,4.938177,Mast cells,Immune system
+28,CSF1R,4.00698,Kupffer cells,Liver
+28,CSF1R,4.00698,Kupffer cells,Liver
+28,CSF1R,4.00698,Macrophages,Immune system
+28,CSF1R,4.00698,Macrophages,Immune system
+28,CSF1R,4.00698,Monocytes,Immune system
+28,CSF1R,4.00698,Monocytes,Immune system
+28,CFP,4.5756645,Mast cells,Immune system
+28,CFP,4.5756645,Mast cells,Immune system
+28,CFP,4.5756645,Monocytes,Immune system
+28,CFP,4.5756645,Monocytes,Immune system
+28,CFP,4.5756645,Neutrophils,Immune system
+28,CFP,4.5756645,Neutrophils,Immune system
+28,LYVE1,3.732056,Macrophages,Immune system
+28,SPI1,3.8080707,Monocytes,Immune system
+28,SPI1,3.8080707,Monocytes,Immune system
+28,GPNMB,3.638296,Macrophages,Immune system
+28,GPNMB,3.638296,Macrophages,Immune system
+28,C3AR1,4.443153,Eosinophils,Immune system
+28,C3AR1,4.443153,Macrophages,Immune system
+28,TIMD4,5.1006846,Kupffer cells,Liver
+28,SIGLEC10,3.866814,Eosinophils,Immune system
+28,SIGLEC10,3.866814,Eosinophils,Immune system
+29,ARHGAP15,5.2235537,T memory cells,Immune system
+29,ARHGAP15,5.2235537,T memory cells,Immune system
+29,ARHGAP15,5.2235537,T memory cells,Immune system
+29,PTPRC,4.743844,B cells,Immune system
+29,PTPRC,4.743844,B cells,Immune system
+29,PTPRC,4.743844,B cells,Immune system
+29,PTPRC,4.743844,B cells memory,Immune system
+29,PTPRC,4.743844,B cells memory,Immune system
+29,PTPRC,4.743844,B cells memory,Immune system
+29,PTPRC,4.743844,Dendritic cells,Immune system
+29,PTPRC,4.743844,Dendritic cells,Immune system
+29,PTPRC,4.743844,Dendritic cells,Immune system
+29,PTPRC,4.743844,Monocytes,Immune system
+29,PTPRC,4.743844,Monocytes,Immune system
+29,PTPRC,4.743844,Monocytes,Immune system
+29,PTPRC,4.743844,T memory cells,Immune system
+29,PTPRC,4.743844,T memory cells,Immune system
+29,PTPRC,4.743844,T memory cells,Immune system
+29,SKAP1,5.487735,T cells,Immune system
+29,SKAP1,5.487735,T cells,Immune system
+29,SKAP1,5.487735,T memory cells,Immune system
+29,SKAP1,5.487735,T memory cells,Immune system
+29,IKZF1,5.1509237,T memory cells,Immune system
+29,IKZF1,5.1509237,T memory cells,Immune system
+29,IKZF1,5.1509237,T memory cells,Immune system
+29,BCL2,5.2745123,T cells,Immune system
+29,BCL2,5.2745123,T cells,Immune system
+29,BCL2,5.2745123,T cells,Immune system
+29,BCL2,5.2745123,T memory cells,Immune system
+29,BCL2,5.2745123,T memory cells,Immune system
+29,BCL2,5.2745123,T memory cells,Immune system
+29,CD247,5.349185,Gamma delta T cells,Immune system
+29,CD247,5.349185,Gamma delta T cells,Immune system
+29,CD247,5.349185,Gamma delta T cells,Immune system
+29,CD247,5.349185,NK cells,Immune system
+29,CD247,5.349185,NK cells,Immune system
+29,CD247,5.349185,NK cells,Immune system
+29,CD247,5.349185,T cells,Immune system
+29,CD247,5.349185,T cells,Immune system
+29,CD247,5.349185,T cells,Immune system
+29,CD247,5.349185,T memory cells,Immune system
+29,CD247,5.349185,T memory cells,Immune system
+29,CD247,5.349185,T memory cells,Immune system
+29,DOCK2,4.1399374,NK cells,Immune system
+29,DOCK2,4.1399374,NK cells,Immune system
+29,DOCK2,4.1399374,NK cells,Immune system
+29,SAMD3,5.723527,NK cells,Immune system
+29,SAMD3,5.723527,NK cells,Immune system
+29,BCL11B,5.564691,Nuocytes,Immune system
+29,BCL11B,5.564691,Nuocytes,Immune system
+29,MCTP2,4.152635,Plasmacytoid dendritic cells,Immune system
+29,MCTP2,4.152635,Plasmacytoid dendritic cells,Immune system
+29,IKZF2,4.681837,Eosinophils,Immune system
+29,IKZF2,4.681837,T regulatory cells,Immune system
+29,TXK,3.8231642,NK cells,Immune system
+29,TXK,3.8231642,NK cells,Immune system
+29,TXK,3.8231642,NK cells,Immune system
+29,TXK,3.8231642,T cells,Immune system
+29,TXK,3.8231642,T cells,Immune system
+29,TXK,3.8231642,T cells,Immune system
+29,CYTIP,3.9432974,T memory cells,Immune system
+29,CYTIP,3.9432974,T memory cells,Immune system
+29,ITK,5.4648848,T cells,Immune system
+29,ITK,5.4648848,T cells,Immune system
+29,RHOH,4.515466,T cells,Immune system
+29,RHOH,4.515466,T cells,Immune system
+29,RHOH,4.515466,T memory cells,Immune system
+29,RHOH,4.515466,T memory cells,Immune system
+29,GRAP2,5.1944056,T memory cells,Immune system
+29,PTPN22,4.562665,T cells,Immune system
+29,PTPN22,4.562665,T cells,Immune system
+29,PTPN22,4.562665,T cells,Immune system
+29,RUNX3,4.13892,Macrophages,Immune system
+29,RUNX3,4.13892,Macrophages,Immune system
+29,RUNX3,4.13892,Macrophages,Immune system
+29,PYHIN1,4.1831512,T cells,Immune system
+29,PYHIN1,4.1831512,T cells,Immune system
+29,PYHIN1,4.1831512,T cells,Immune system
+29,PYHIN1,4.1831512,T cells,Immune system
+29,LCK,3.5492923,T cells,Immune system
+29,LCK,3.5492923,T cells,Immune system
+29,LCK,3.5492923,T cells,Immune system
+29,LCK,3.5492923,T cells,Immune system
+29,LCK,3.5492923,T memory cells,Immune system
+29,LCK,3.5492923,T memory cells,Immune system
+29,LCK,3.5492923,T memory cells,Immune system
+29,LCK,3.5492923,T memory cells,Immune system
+29,SP140,3.7226892,B cells memory,Immune system
+29,IL2RB,3.630555,Natural killer T cells,Immune system
+29,IL2RB,3.630555,Natural killer T cells,Immune system
+29,IL2RB,3.630555,Natural killer T cells,Immune system
+29,IL2RB,3.630555,Natural killer T cells,Immune system
+29,IL2RB,3.630555,NK cells,Immune system
+29,IL2RB,3.630555,NK cells,Immune system
+29,IL2RB,3.630555,NK cells,Immune system
+29,IL2RB,3.630555,NK cells,Immune system
+29,IL2RB,3.630555,T cells,Immune system
+29,IL2RB,3.630555,T cells,Immune system
+29,IL2RB,3.630555,T cells,Immune system
+29,IL2RB,3.630555,T cells,Immune system
+29,CD6,4.4131207,T cells,Immune system
+29,CD6,4.4131207,T cells,Immune system
+29,CD6,4.4131207,T cells,Immune system
+29,SLAMF1,5.5709424,Megakaryocytes,Immune system
+29,SLAMF1,5.5709424,T follicular helper cells,Immune system
+29,CD200R1,3.7876651,Macrophages,Immune system
+29,CD200R1,3.7876651,Macrophages,Immune system
+29,NCR1,3.6851208,NK cells,Immune system
+29,NCR1,3.6851208,NK cells,Immune system
+29,NCR1,3.6851208,NK cells,Immune system
+29,RAB27B,3.7975247,Mast cells,Immune system
+29,TNFRSF18,4.1421094,T regulatory cells,Immune system
+30,ST6GALNAC3,7.594184,Mast cells,Immune system
+30,ST6GALNAC3,7.594184,Mast cells,Immune system
+30,ST6GALNAC3,7.594184,Mast cells,Immune system
+30,ZBTB16,4.710516,Natural killer T cells,Immune system
+30,ZBTB16,4.710516,Natural killer T cells,Immune system
+30,ZBTB16,4.710516,Natural killer T cells,Immune system
+30,ZBTB16,4.710516,Natural killer T cells,Immune system
+30,ZBTB16,4.710516,Natural killer T cells,Immune system
+30,ZBTB16,4.710516,NK cells,Immune system
+30,ZBTB16,4.710516,NK cells,Immune system
+30,ZBTB16,4.710516,NK cells,Immune system
+30,ZBTB16,4.710516,NK cells,Immune system
+30,ZBTB16,4.710516,NK cells,Immune system
+30,TCF4,4.793382,Plasmacytoid dendritic cells,Immune system
+30,TCF4,4.793382,Plasmacytoid dendritic cells,Immune system
+30,TSPAN9,3.7477727,Megakaryocytes,Immune system
+30,PAPSS2,3.685669,Mast cells,Immune system
+30,RAB20,4.479611,Macrophages,Immune system
+30,RAB20,4.479611,Macrophages,Immune system
+30,MRC1,3.8614514,Macrophages,Immune system
+30,MRC1,3.8614514,Macrophages,Immune system
+30,MRC1,3.8614514,Monocytes,Immune system
+30,MRC1,3.8614514,Monocytes,Immune system
+30,GPM6A,5.244307,Mast cells,Immune system
+30,GPM6A,5.244307,Mast cells,Immune system
+30,DNASE1L3,3.5983787,Dendritic cells,Immune system
+30,DNASE1L3,3.5983787,Dendritic cells,Immune system
+30,DNASE1L3,3.5983787,Dendritic cells,Immune system
+30,DNASE1L3,3.5983787,Kupffer cells,Liver
+30,DNASE1L3,3.5983787,Kupffer cells,Liver
+30,DNASE1L3,3.5983787,Kupffer cells,Liver
+30,DNASE1L3,3.5983787,Macrophages,Immune system
+30,DNASE1L3,3.5983787,Macrophages,Immune system
+30,DNASE1L3,3.5983787,Macrophages,Immune system
+30,CHSY1,3.5939744,NK cells,Immune system
+30,FLI1,3.6181486,B cells,Immune system
+30,FLI1,3.6181486,B cells,Immune system
+30,FLI1,3.6181486,B cells,Immune system
+30,FLI1,3.6181486,B cells,Immune system
+30,FLI1,3.6181486,Megakaryocytes,Immune system
+30,FLI1,3.6181486,Megakaryocytes,Immune system
+30,FLI1,3.6181486,Megakaryocytes,Immune system
+30,FLI1,3.6181486,Megakaryocytes,Immune system
+30,CABLES1,3.8958392,Basophils,Immune system
+30,RASGRP3,4.7415495,B cells,Immune system
+30,RASGRP3,4.7415495,B cells,Immune system
+30,RASGRP3,4.7415495,Plasma cells,Immune system
+30,RASGRP3,4.7415495,Plasma cells,Immune system
+30,ADAMTS9,3.553997,Mast cells,Immune system
+30,ADAMTS9,3.553997,Mast cells,Immune system
+30,ADAMTS9,3.553997,Mast cells,Immune system
+30,IL18R1,3.9728591,NK cells,Immune system
+30,IL18R1,3.9728591,T cells,Immune system
+30,EPOR,3.7097774,Megakaryocytes,Immune system
+30,KLHL6,3.902494,B cells,Immune system
+30,KLHL6,3.902494,B cells,Immune system
+30,KLHL6,3.902494,B cells,Immune system
+30,ALPL,3.5731196,Cholangiocytes,Liver
+30,NFATC1,4.116171,Megakaryocytes,Immune system
+30,NFATC1,4.116171,Megakaryocytes,Immune system
+30,TMEM156,4.0263176,B cells memory,Immune system
+30,TMEM156,4.0263176,Plasma cells,Immune system
+30,GABBR1,3.8063936,Basophils,Immune system
+30,GABBR1,3.8063936,Basophils,Immune system
+31,PCK1,4.387894,Hepatocytes,Liver
+31,PCK1,4.387894,Hepatocytes,Liver
+31,CYP3A4,4.699401,Hepatocytes,Liver
+31,CYP3A4,4.699401,Hepatocytes,Liver
+31,CYP3A4,4.699401,Hepatocytes,Liver
+31,CYP3A4,4.699401,Hepatocytes,Liver
+31,TAT,4.941336,Hepatocytes,Liver
+31,TAT,4.941336,Hepatocytes,Liver
+31,TAT,4.941336,Hepatocytes,Liver
+31,TAT,4.941336,Hepatocytes,Liver
+31,TAT,4.941336,Hepatocytes,Liver
+31,TAT,4.941336,Hepatocytes,Liver
+31,TAT,4.941336,Hepatocytes,Liver
+31,CP,4.166056,Hepatocytes,Liver
+31,CP,4.166056,Hepatocytes,Liver
+31,CP,4.166056,Hepatocytes,Liver
+31,CP,4.166056,Hepatocytes,Liver
+31,ASS1,4.0118012,Dendritic cells,Immune system
+31,ASS1,4.0118012,Dendritic cells,Immune system
+31,ASS1,4.0118012,Dendritic cells,Immune system
+31,ASS1,4.0118012,Dendritic cells,Immune system
+31,ASS1,4.0118012,Dendritic cells,Immune system
+31,ASS1,4.0118012,Dendritic cells,Immune system
+31,ASS1,4.0118012,Hepatocytes,Liver
+31,ASS1,4.0118012,Hepatocytes,Liver
+31,ASS1,4.0118012,Hepatocytes,Liver
+31,ASS1,4.0118012,Hepatocytes,Liver
+31,ASS1,4.0118012,Hepatocytes,Liver
+31,ASS1,4.0118012,Hepatocytes,Liver
+31,HP,3.670819,Neutrophils,Immune system
+31,HP,3.670819,Neutrophils,Immune system
+31,HP,3.670819,Neutrophils,Immune system
+31,HP,3.670819,Neutrophils,Immune system
+31,HP,3.670819,Neutrophils,Immune system
+31,HP,3.670819,Neutrophils,Immune system
+31,HP,3.670819,Neutrophils,Immune system
+31,CYP2C9,3.6497686,Hepatocytes,Liver
+31,CYP2C9,3.6497686,Hepatocytes,Liver
+31,CYP2C9,3.6497686,Hepatocytes,Liver
+31,HAMP,3.5122514,Hepatocytes,Liver
+31,HAMP,3.5122514,Hepatocytes,Liver
+31,HAL,4.2774534,Hepatocytes,Liver
+31,HAL,4.2774534,Hepatocytes,Liver
+31,IL1RN,3.7559915,Monocytes,Immune system
+31,IL1RN,3.7559915,Monocytes,Immune system
+33,MME,3.982552,B cells,Immune system
+33,MME,3.982552,B cells naive,Immune system
+33,MME,3.982552,Neutrophils,Immune system
+33,LEF1,4.0768075,T cells,Immune system
+33,LEF1,4.0768075,T cells,Immune system
+33,LEF1,4.0768075,T memory cells,Immune system
+33,LEF1,4.0768075,T memory cells,Immune system
+33,NCAM1,6.642477,Natural killer T cells,Immune system
+33,NCAM1,6.642477,Natural killer T cells,Immune system
+34,CP,4.020907,Hepatocytes,Liver
+34,CP,4.020907,Hepatocytes,Liver
+34,CP,4.020907,Hepatocytes,Liver
+34,CP,4.020907,Hepatocytes,Liver
+34,ZBTB16,3.6619945,Natural killer T cells,Immune system
+34,ZBTB16,3.6619945,Natural killer T cells,Immune system
+34,ZBTB16,3.6619945,Natural killer T cells,Immune system
+34,ZBTB16,3.6619945,Natural killer T cells,Immune system
+34,ZBTB16,3.6619945,Natural killer T cells,Immune system
+34,ZBTB16,3.6619945,NK cells,Immune system
+34,ZBTB16,3.6619945,NK cells,Immune system
+34,ZBTB16,3.6619945,NK cells,Immune system
+34,ZBTB16,3.6619945,NK cells,Immune system
+34,ZBTB16,3.6619945,NK cells,Immune system
+34,CYP2B6,3.5266283,Hepatocytes,Liver
+34,CYP2B6,3.5266283,Hepatocytes,Liver
+34,CYP2B6,3.5266283,Hepatocytes,Liver
+34,SLC8A1,4.156232,Hepatic stellate cells,Liver
+34,SLC8A1,4.156232,Hepatic stellate cells,Liver
+34,RAB20,4.062446,Macrophages,Immune system
+34,RAB20,4.062446,Macrophages,Immune system
+34,CD163,3.7863219,Dendritic cells,Immune system
+34,CD163,3.7863219,Dendritic cells,Immune system
+34,CD163,3.7863219,Dendritic cells,Immune system
+34,CD163,3.7863219,Kupffer cells,Liver
+34,CD163,3.7863219,Kupffer cells,Liver
+34,CD163,3.7863219,Kupffer cells,Liver
+34,CD163,3.7863219,Macrophages,Immune system
+34,CD163,3.7863219,Macrophages,Immune system
+34,CD163,3.7863219,Macrophages,Immune system
+34,CD163,3.7863219,Monocytes,Immune system
+34,CD163,3.7863219,Monocytes,Immune system
+34,CD163,3.7863219,Monocytes,Immune system
+34,ITGAX,5.0931187,Basophils,Immune system
+34,ITGAX,5.0931187,Basophils,Immune system
+34,ITGAX,5.0931187,Dendritic cells,Immune system
+34,ITGAX,5.0931187,Dendritic cells,Immune system
+34,ITGAX,5.0931187,Macrophages,Immune system
+34,ITGAX,5.0931187,Macrophages,Immune system
+34,ITGAX,5.0931187,Monocytes,Immune system
+34,ITGAX,5.0931187,Monocytes,Immune system
+34,ITGAX,5.0931187,Neutrophils,Immune system
+34,ITGAX,5.0931187,Neutrophils,Immune system
+34,ITGAX,5.0931187,NK cells,Immune system
+34,ITGAX,5.0931187,NK cells,Immune system
+34,DOCK2,3.5155778,NK cells,Immune system
+34,DOCK2,3.5155778,NK cells,Immune system
+34,DOCK2,3.5155778,NK cells,Immune system
+34,SAMSN1,3.5261972,Macrophages,Immune system
+34,SAMSN1,3.5261972,Macrophages,Immune system
+34,HCK,3.7632914,Dendritic cells,Immune system
+34,HCK,3.7632914,Dendritic cells,Immune system
+34,HCK,3.7632914,Monocytes,Immune system
+34,HCK,3.7632914,Monocytes,Immune system
+34,KLHL6,4.0990195,B cells,Immune system
+34,KLHL6,4.0990195,B cells,Immune system
+34,KLHL6,4.0990195,B cells,Immune system
+34,ALOX5,4.375478,B cells memory,Immune system
+34,ALOX5,4.375478,B cells memory,Immune system
+34,FGR,3.7668438,Macrophages,Immune system
+34,FGR,3.7668438,Macrophages,Immune system
+34,FGR,3.7668438,Macrophages,Immune system
+34,SIGLEC1,3.9769402,Red pulp macrophages,Immune system
+34,SIGLEC1,3.9769402,Red pulp macrophages,Immune system
+34,CD300A,4.002571,Macrophages,Immune system
+34,CMKLR1,3.5171967,Monocytes,Immune system
+34,CMKLR1,3.5171967,Monocytes,Immune system
+34,SLC11A1,3.9643178,Dendritic cells,Immune system
+34,SLC11A1,3.9643178,Dendritic cells,Immune system
+34,SLC11A1,3.9643178,Kupffer cells,Liver
+34,SLC11A1,3.9643178,Kupffer cells,Liver
+34,SLC11A1,3.9643178,Macrophages,Immune system
+34,SLC11A1,3.9643178,Macrophages,Immune system
+34,SLC11A1,3.9643178,Red pulp macrophages,Immune system
+34,SLC11A1,3.9643178,Red pulp macrophages,Immune system
+34,IL2RA,4.619687,B cells naive,Immune system
+34,IL2RA,4.619687,B cells naive,Immune system
+34,IL2RA,4.619687,Mast cells,Immune system
+34,IL2RA,4.619687,Mast cells,Immune system
+34,IL2RA,4.619687,Megakaryocytes,Immune system
+34,IL2RA,4.619687,Megakaryocytes,Immune system
+34,IL2RA,4.619687,T cells,Immune system
+34,IL2RA,4.619687,T cells,Immune system
+34,IL2RA,4.619687,T regulatory cells,Immune system
+34,IL2RA,4.619687,T regulatory cells,Immune system
+34,GPR132,4.1495767,Dendritic cells,Immune system
+34,GPR132,4.1495767,Macrophages,Immune system
+35,MZB1,10.786042,B cells,Immune system
+35,MZB1,10.786042,Plasma cells,Immune system
+35,MZB1,10.786042,Plasmacytoid dendritic cells,Immune system
+35,SSR4,5.3217993,Plasma cells,Immune system
+35,HLA-B,3.6505969,Dendritic cells,Immune system
+35,HLA-B,3.6505969,Dendritic cells,Immune system
+35,HLA-B,3.6505969,Dendritic cells,Immune system
+35,HLA-B,3.6505969,Dendritic cells,Immune system
+35,HLA-C,3.5283668,Dendritic cells,Immune system
+35,HLA-C,3.5283668,Dendritic cells,Immune system
+35,ITM2C,3.9386683,Plasmacytoid dendritic cells,Immune system
+35,POU2AF1,7.415149,B cells,Immune system
+35,CRELD2,4.1554217,B cells,Immune system
+35,CD27,5.9101872,B cells,Immune system
+35,CD27,5.9101872,B cells,Immune system
+35,CD27,5.9101872,B cells,Immune system
+35,CD27,5.9101872,B cells memory,Immune system
+35,CD27,5.9101872,B cells memory,Immune system
+35,CD27,5.9101872,B cells memory,Immune system
+35,CD27,5.9101872,NK cells,Immune system
+35,CD27,5.9101872,NK cells,Immune system
+35,CD27,5.9101872,NK cells,Immune system
+35,CD27,5.9101872,Plasma cells,Immune system
+35,CD27,5.9101872,Plasma cells,Immune system
+35,CD27,5.9101872,Plasma cells,Immune system
+35,CD27,5.9101872,T cytotoxic cells,Immune system
+35,CD27,5.9101872,T cytotoxic cells,Immune system
+35,CD27,5.9101872,T cytotoxic cells,Immune system
+35,CD27,5.9101872,T memory cells,Immune system
+35,CD27,5.9101872,T memory cells,Immune system
+35,CD27,5.9101872,T memory cells,Immune system
+35,CD38,4.1598387,B cells,Immune system
+35,CD38,4.1598387,B cells,Immune system
+35,CD38,4.1598387,B cells,Immune system
+35,CD38,4.1598387,B cells memory,Immune system
+35,CD38,4.1598387,B cells memory,Immune system
+35,CD38,4.1598387,B cells memory,Immune system
+35,CD38,4.1598387,Kupffer cells,Liver
+35,CD38,4.1598387,Kupffer cells,Liver
+35,CD38,4.1598387,Kupffer cells,Liver
+35,CD38,4.1598387,Plasma cells,Immune system
+35,CD38,4.1598387,Plasma cells,Immune system
+35,CD38,4.1598387,Plasma cells,Immune system
+35,IL16,4.033754,Plasma cells,Immune system
+35,PNOC,6.1211295,B cells memory,Immune system
+35,PNOC,6.1211295,B cells naive,Immune system
+35,PNOC,6.1211295,Plasma cells,Immune system
+35,SPAG4,5.473361,Plasma cells,Immune system
+35,ITGB7,4.1663074,Basophils,Immune system
+35,ITGB7,4.1663074,Basophils,Immune system
+35,ITGB7,4.1663074,T memory cells,Immune system
+35,ITGB7,4.1663074,T memory cells,Immune system
+36,RORA,3.5058045,Natural killer T cells,Immune system
+36,RORA,3.5058045,Nuocytes,Immune system
+36,RORA,3.5058045,T cells,Immune system
+36,ZBTB16,4.3475523,Natural killer T cells,Immune system
+36,ZBTB16,4.3475523,Natural killer T cells,Immune system
+36,ZBTB16,4.3475523,Natural killer T cells,Immune system
+36,ZBTB16,4.3475523,Natural killer T cells,Immune system
+36,ZBTB16,4.3475523,Natural killer T cells,Immune system
+36,ZBTB16,4.3475523,NK cells,Immune system
+36,ZBTB16,4.3475523,NK cells,Immune system
+36,ZBTB16,4.3475523,NK cells,Immune system
+36,ZBTB16,4.3475523,NK cells,Immune system
+36,ZBTB16,4.3475523,NK cells,Immune system
+36,ERN1,4.0833063,Plasmacytoid dendritic cells,Immune system
+36,ERN1,4.0833063,Plasmacytoid dendritic cells,Immune system
+37,RAPGEF2,4.692927,Mast cells,Immune system
+37,JAZF1,3.6992097,Basophils,Immune system
+37,CD36,3.6432183,Macrophages,Immune system
+37,CD36,3.6432183,Monocytes,Immune system
+37,NPL,3.9255166,Basophils,Immune system
+37,NPL,3.9255166,Basophils,Immune system
+37,SLC7A5,3.7566345,Mast cells,Immune system
+37,NCEH1,3.5837574,Macrophages,Immune system
+37,NCEH1,3.5837574,Mast cells,Immune system
+38,KLRB1,7.686408,Natural killer T cells,Immune system
+38,KLRB1,7.686408,Natural killer T cells,Immune system
+38,KLRB1,7.686408,NK cells,Immune system
+38,KLRB1,7.686408,NK cells,Immune system
+38,KLRB1,7.686408,T cells,Immune system
+38,KLRB1,7.686408,T cells,Immune system
+38,CD7,5.7975698,Gamma delta T cells,Immune system
+38,CD7,5.7975698,Monocytes,Immune system
+38,CD7,5.7975698,NK cells,Immune system
+38,CD7,5.7975698,T cells,Immune system
+38,CD7,5.7975698,T memory cells,Immune system
+38,GZMA,6.7297416,Gamma delta T cells,Immune system
+38,GZMA,6.7297416,Gamma delta T cells,Immune system
+38,GZMA,6.7297416,NK cells,Immune system
+38,GZMA,6.7297416,NK cells,Immune system
+38,GZMA,6.7297416,T cells,Immune system
+38,GZMA,6.7297416,T cells,Immune system
+38,HLA-C,4.885344,Dendritic cells,Immune system
+38,HLA-C,4.885344,Dendritic cells,Immune system
+38,KLRD1,6.031513,Gamma delta T cells,Immune system
+38,KLRD1,6.031513,Gamma delta T cells,Immune system
+38,KLRD1,6.031513,NK cells,Immune system
+38,KLRD1,6.031513,NK cells,Immune system
+38,HLA-A,4.014296,Dendritic cells,Immune system
+38,TYROBP,5.4047003,Macrophages,Immune system
+38,TYROBP,5.4047003,Macrophages,Immune system
+38,TYROBP,5.4047003,Macrophages,Immune system
+38,HLA-B,4.4872556,Dendritic cells,Immune system
+38,HLA-B,4.4872556,Dendritic cells,Immune system
+38,HLA-B,4.4872556,Dendritic cells,Immune system
+38,HLA-B,4.4872556,Dendritic cells,Immune system
+38,CST7,5.9342165,Gamma delta T cells,Immune system
+38,CST7,5.9342165,Gamma delta T cells,Immune system
+38,CST7,5.9342165,NK cells,Immune system
+38,CST7,5.9342165,NK cells,Immune system
+38,CD247,5.3950853,Gamma delta T cells,Immune system
+38,CD247,5.3950853,Gamma delta T cells,Immune system
+38,CD247,5.3950853,Gamma delta T cells,Immune system
+38,CD247,5.3950853,NK cells,Immune system
+38,CD247,5.3950853,NK cells,Immune system
+38,CD247,5.3950853,NK cells,Immune system
+38,CD247,5.3950853,T cells,Immune system
+38,CD247,5.3950853,T cells,Immune system
+38,CD247,5.3950853,T cells,Immune system
+38,CD247,5.3950853,T memory cells,Immune system
+38,CD247,5.3950853,T memory cells,Immune system
+38,CD247,5.3950853,T memory cells,Immune system
+38,IL2RB,6.972657,Natural killer T cells,Immune system
+38,IL2RB,6.972657,Natural killer T cells,Immune system
+38,IL2RB,6.972657,Natural killer T cells,Immune system
+38,IL2RB,6.972657,Natural killer T cells,Immune system
+38,IL2RB,6.972657,NK cells,Immune system
+38,IL2RB,6.972657,NK cells,Immune system
+38,IL2RB,6.972657,NK cells,Immune system
+38,IL2RB,6.972657,NK cells,Immune system
+38,IL2RB,6.972657,T cells,Immune system
+38,IL2RB,6.972657,T cells,Immune system
+38,IL2RB,6.972657,T cells,Immune system
+38,IL2RB,6.972657,T cells,Immune system
+38,ITGB2,4.762346,Natural killer T cells,Immune system
+38,ITGB2,4.762346,Natural killer T cells,Immune system
+38,TRDC,6.4720755,Gamma delta T cells,Immune system
+38,TRDC,6.4720755,NK cells,Immune system
+38,TRDC,6.4720755,T cells,Immune system
+38,CCL5,5.9124093,Eosinophils,Immune system
+38,CCL5,5.9124093,Eosinophils,Immune system
+38,CCL5,5.9124093,Gamma delta T cells,Immune system
+38,CCL5,5.9124093,Gamma delta T cells,Immune system
+38,CCL5,5.9124093,Macrophages,Immune system
+38,CCL5,5.9124093,Macrophages,Immune system
+38,CCL5,5.9124093,NK cells,Immune system
+38,CCL5,5.9124093,NK cells,Immune system
+38,CCL5,5.9124093,T cells,Immune system
+38,CCL5,5.9124093,T cells,Immune system
+38,CXCR4,4.6247706,B cells,Immune system
+38,CXCR4,4.6247706,B cells,Immune system
+38,CXCR4,4.6247706,Dendritic cells,Immune system
+38,CXCR4,4.6247706,Dendritic cells,Immune system
+38,CXCR4,4.6247706,Mast cells,Immune system
+38,CXCR4,4.6247706,Mast cells,Immune system
+38,CXCR4,4.6247706,Megakaryocytes,Immune system
+38,CXCR4,4.6247706,Megakaryocytes,Immune system
+38,CXCR4,4.6247706,Monocytes,Immune system
+38,CXCR4,4.6247706,Monocytes,Immune system
+38,CXCR4,4.6247706,Natural killer T cells,Immune system
+38,CXCR4,4.6247706,Natural killer T cells,Immune system
+38,CXCR4,4.6247706,NK cells,Immune system
+38,CXCR4,4.6247706,NK cells,Immune system
+38,CXCR4,4.6247706,Plasma cells,Immune system
+38,CXCR4,4.6247706,Plasma cells,Immune system
+38,CXCR4,4.6247706,Plasmacytoid dendritic cells,Immune system
+38,CXCR4,4.6247706,Plasmacytoid dendritic cells,Immune system
+38,CXCR4,4.6247706,T cells,Immune system
+38,CXCR4,4.6247706,T cells,Immune system
+38,MATK,6.345008,Megakaryocytes,Immune system
+38,MATK,6.345008,Megakaryocytes,Immune system
+38,TXK,4.5671244,NK cells,Immune system
+38,TXK,4.5671244,NK cells,Immune system
+38,TXK,4.5671244,NK cells,Immune system
+38,TXK,4.5671244,T cells,Immune system
+38,TXK,4.5671244,T cells,Immune system
+38,TXK,4.5671244,T cells,Immune system
+38,PLAC8,4.1947503,Dendritic cells,Immune system
+38,ADGRE5,4.0249767,Macrophages,Immune system
+38,ADGRE5,4.0249767,Macrophages,Immune system
+38,CD160,6.3376584,T cells,Immune system
+38,CD160,6.3376584,T cells,Immune system
+38,CD37,4.17583,B cells memory,Immune system
+38,CD37,4.17583,B cells naive,Immune system
+38,CD37,4.17583,Plasma cells,Immune system
+38,CD69,4.986274,B cells,Immune system
+38,CD69,4.986274,B cells,Immune system
+38,CD69,4.986274,B cells memory,Immune system
+38,CD69,4.986274,B cells memory,Immune system
+38,CD69,4.986274,B cells naive,Immune system
+38,CD69,4.986274,B cells naive,Immune system
+38,CD69,4.986274,Basophils,Immune system
+38,CD69,4.986274,Basophils,Immune system
+38,CD69,4.986274,Eosinophils,Immune system
+38,CD69,4.986274,Eosinophils,Immune system
+38,CD69,4.986274,NK cells,Immune system
+38,CD69,4.986274,NK cells,Immune system
+38,CD69,4.986274,T cells,Immune system
+38,CD69,4.986274,T cells,Immune system
+38,CD69,4.986274,T cytotoxic cells,Immune system
+38,CD69,4.986274,T cytotoxic cells,Immune system
+38,CD69,4.986274,T memory cells,Immune system
+38,CD69,4.986274,T memory cells,Immune system
+38,GZMK,5.6002264,NK cells,Immune system
+38,GZMK,5.6002264,NK cells,Immune system
+38,GZMK,5.6002264,T cells,Immune system
+38,GZMK,5.6002264,T cells,Immune system
+38,CLIC3,6.5710816,Gamma delta T cells,Immune system
+38,CLIC3,6.5710816,Gamma delta T cells,Immune system
+38,UCP2,4.2393904,Hepatocytes,Liver
+38,UCP2,4.2393904,Macrophages,Immune system
+38,BIN2,4.565875,T memory cells,Immune system
+38,GZMM,5.5729547,NK cells,Immune system
+38,GZMM,5.5729547,NK cells,Immune system
+38,ARHGAP9,5.3544602,Plasmacytoid dendritic cells,Immune system
+38,HMGB2,3.6788168,Gamma delta T cells,Immune system
+38,GNLY,5.69788,Gamma delta T cells,Immune system
+38,GNLY,5.69788,Gamma delta T cells,Immune system
+38,GNLY,5.69788,NK cells,Immune system
+38,GNLY,5.69788,NK cells,Immune system
+38,TBC1D10C,4.9102383,T memory cells,Immune system
+38,TBC1D10C,4.9102383,T memory cells,Immune system
+38,HOPX,5.620896,Gamma delta T cells,Immune system
+38,HOPX,5.620896,Gamma delta T cells,Immune system
+38,HOPX,5.620896,NK cells,Immune system
+38,HOPX,5.620896,NK cells,Immune system
+38,HOPX,5.620896,T cells,Immune system
+38,HOPX,5.620896,T cells,Immune system
+38,XCL1,5.125078,NK cells,Immune system
+38,PYHIN1,4.5512776,T cells,Immune system
+38,PYHIN1,4.5512776,T cells,Immune system
+38,PYHIN1,4.5512776,T cells,Immune system
+38,PYHIN1,4.5512776,T cells,Immune system
+38,LCK,4.4956703,T cells,Immune system
+38,LCK,4.4956703,T cells,Immune system
+38,LCK,4.4956703,T cells,Immune system
+38,LCK,4.4956703,T cells,Immune system
+38,LCK,4.4956703,T memory cells,Immune system
+38,LCK,4.4956703,T memory cells,Immune system
+38,LCK,4.4956703,T memory cells,Immune system
+38,LCK,4.4956703,T memory cells,Immune system
+38,RUNX3,4.2484736,Macrophages,Immune system
+38,RUNX3,4.2484736,Macrophages,Immune system
+38,RUNX3,4.2484736,Macrophages,Immune system
+38,FGR,4.167451,Macrophages,Immune system
+38,FGR,4.167451,Macrophages,Immune system
+38,FGR,4.167451,Macrophages,Immune system
+38,ARHGAP45,3.7901576,T memory cells,Immune system
+38,CD38,3.6244795,B cells,Immune system
+38,CD38,3.6244795,B cells,Immune system
+38,CD38,3.6244795,B cells,Immune system
+38,CD38,3.6244795,B cells memory,Immune system
+38,CD38,3.6244795,B cells memory,Immune system
+38,CD38,3.6244795,B cells memory,Immune system
+38,CD38,3.6244795,Kupffer cells,Liver
+38,CD38,3.6244795,Kupffer cells,Liver
+38,CD38,3.6244795,Kupffer cells,Liver
+38,CD38,3.6244795,Plasma cells,Immune system
+38,CD38,3.6244795,Plasma cells,Immune system
+38,CD38,3.6244795,Plasma cells,Immune system
+38,CYTIP,3.5485635,T memory cells,Immune system
+38,CYTIP,3.5485635,T memory cells,Immune system
+38,FMNL1,3.8006504,Macrophages,Immune system
+38,FMNL1,3.8006504,Macrophages,Immune system
+38,FMNL1,3.8006504,T cells,Immune system
+38,FMNL1,3.8006504,T cells,Immune system
+38,MYO1G,4.7144423,Macrophages,Immune system
+38,MYO1G,4.7144423,T cells,Immune system
+38,NCR1,5.5586753,NK cells,Immune system
+38,NCR1,5.5586753,NK cells,Immune system
+38,NCR1,5.5586753,NK cells,Immune system
+38,PTPN22,3.8184564,T cells,Immune system
+38,PTPN22,3.8184564,T cells,Immune system
+38,PTPN22,3.8184564,T cells,Immune system
+38,GATA3,4.814578,Natural killer T cells,Immune system
+38,GATA3,4.814578,Nuocytes,Immune system
+38,CXCR6,5.167587,T cells,Immune system
+38,CXCR6,5.167587,T cells,Immune system
+38,CXCR6,5.167587,T memory cells,Immune system
+38,CXCR6,5.167587,T memory cells,Immune system
+38,TRGC2,3.9596016,Gamma delta T cells,Immune system
+38,TRGC2,3.9596016,Gamma delta T cells,Immune system
+38,CD244,4.3782353,Eosinophils,Immune system
+38,CD244,4.3782353,NK cells,Immune system
+38,SH2D2A,4.546472,NK cells,Immune system
+38,SH2D2A,4.546472,NK cells,Immune system
+38,ADAM8,3.8022096,Macrophages,Immune system
+38,ADAM8,3.8022096,Neutrophils,Immune system
+38,CD27,3.5273275,B cells,Immune system
+38,CD27,3.5273275,B cells,Immune system
+38,CD27,3.5273275,B cells,Immune system
+38,CD27,3.5273275,B cells memory,Immune system
+38,CD27,3.5273275,B cells memory,Immune system
+38,CD27,3.5273275,B cells memory,Immune system
+38,CD27,3.5273275,NK cells,Immune system
+38,CD27,3.5273275,NK cells,Immune system
+38,CD27,3.5273275,NK cells,Immune system
+38,CD27,3.5273275,Plasma cells,Immune system
+38,CD27,3.5273275,Plasma cells,Immune system
+38,CD27,3.5273275,Plasma cells,Immune system
+38,CD27,3.5273275,T cytotoxic cells,Immune system
+38,CD27,3.5273275,T cytotoxic cells,Immune system
+38,CD27,3.5273275,T cytotoxic cells,Immune system
+38,CD27,3.5273275,T memory cells,Immune system
+38,CD27,3.5273275,T memory cells,Immune system
+38,CD27,3.5273275,T memory cells,Immune system
+38,IL12RB1,3.8809783,Natural killer T cells,Immune system
+38,GPR18,3.870912,B cells memory,Immune system
+38,GPR18,3.870912,B cells naive,Immune system
+38,TBX21,4.264306,Natural killer T cells,Immune system
+38,TBX21,4.264306,Natural killer T cells,Immune system
+38,TBX21,4.264306,NK cells,Immune system
+38,TBX21,4.264306,NK cells,Immune system
+38,SNX20,3.857161,Macrophages,Immune system
+38,SNX20,3.857161,Neutrophils,Immune system
+39,LGALS3,3.9144642,Dendritic cells,Immune system
+39,LGALS3,3.9144642,Macrophages,Immune system
+39,LGALS4,5.796146,Cholangiocytes,Liver
+39,LGALS4,5.796146,Cholangiocytes,Liver
+39,FXYD2,7.677641,Cholangiocytes,Liver
+39,FXYD2,7.677641,Cholangiocytes,Liver
+39,LGALS2,3.8813627,Cholangiocytes,Liver
+40,CP,4.161509,Hepatocytes,Liver
+40,CP,4.161509,Hepatocytes,Liver
+40,CP,4.161509,Hepatocytes,Liver
+40,CP,4.161509,Hepatocytes,Liver
+40,CD247,7.1872783,Gamma delta T cells,Immune system
+40,CD247,7.1872783,Gamma delta T cells,Immune system
+40,CD247,7.1872783,Gamma delta T cells,Immune system
+40,CD247,7.1872783,NK cells,Immune system
+40,CD247,7.1872783,NK cells,Immune system
+40,CD247,7.1872783,NK cells,Immune system
+40,CD247,7.1872783,T cells,Immune system
+40,CD247,7.1872783,T cells,Immune system
+40,CD247,7.1872783,T cells,Immune system
+40,CD247,7.1872783,T memory cells,Immune system
+40,CD247,7.1872783,T memory cells,Immune system
+40,CD247,7.1872783,T memory cells,Immune system
+40,ZBTB16,4.4539227,Natural killer T cells,Immune system
+40,ZBTB16,4.4539227,Natural killer T cells,Immune system
+40,ZBTB16,4.4539227,Natural killer T cells,Immune system
+40,ZBTB16,4.4539227,Natural killer T cells,Immune system
+40,ZBTB16,4.4539227,Natural killer T cells,Immune system
+40,ZBTB16,4.4539227,NK cells,Immune system
+40,ZBTB16,4.4539227,NK cells,Immune system
+40,ZBTB16,4.4539227,NK cells,Immune system
+40,ZBTB16,4.4539227,NK cells,Immune system
+40,ZBTB16,4.4539227,NK cells,Immune system
+40,PTPRC,4.215921,B cells,Immune system
+40,PTPRC,4.215921,B cells,Immune system
+40,PTPRC,4.215921,B cells,Immune system
+40,PTPRC,4.215921,B cells memory,Immune system
+40,PTPRC,4.215921,B cells memory,Immune system
+40,PTPRC,4.215921,B cells memory,Immune system
+40,PTPRC,4.215921,Dendritic cells,Immune system
+40,PTPRC,4.215921,Dendritic cells,Immune system
+40,PTPRC,4.215921,Dendritic cells,Immune system
+40,PTPRC,4.215921,Monocytes,Immune system
+40,PTPRC,4.215921,Monocytes,Immune system
+40,PTPRC,4.215921,Monocytes,Immune system
+40,PTPRC,4.215921,T memory cells,Immune system
+40,PTPRC,4.215921,T memory cells,Immune system
+40,PTPRC,4.215921,T memory cells,Immune system
+40,IKZF1,5.384905,T memory cells,Immune system
+40,IKZF1,5.384905,T memory cells,Immune system
+40,IKZF1,5.384905,T memory cells,Immune system
+40,CYP2B6,3.644668,Hepatocytes,Liver
+40,CYP2B6,3.644668,Hepatocytes,Liver
+40,CYP2B6,3.644668,Hepatocytes,Liver
+40,TXK,5.542391,NK cells,Immune system
+40,TXK,5.542391,NK cells,Immune system
+40,TXK,5.542391,NK cells,Immune system
+40,TXK,5.542391,T cells,Immune system
+40,TXK,5.542391,T cells,Immune system
+40,TXK,5.542391,T cells,Immune system
+40,MCTP2,5.4259243,Plasmacytoid dendritic cells,Immune system
+40,MCTP2,5.4259243,Plasmacytoid dendritic cells,Immune system
+40,RUNX3,5.8633056,Macrophages,Immune system
+40,RUNX3,5.8633056,Macrophages,Immune system
+40,RUNX3,5.8633056,Macrophages,Immune system
+40,SKAP1,4.491026,T cells,Immune system
+40,SKAP1,4.491026,T cells,Immune system
+40,SKAP1,4.491026,T memory cells,Immune system
+40,SKAP1,4.491026,T memory cells,Immune system
+40,ARHGAP15,3.6866574,T memory cells,Immune system
+40,ARHGAP15,3.6866574,T memory cells,Immune system
+40,ARHGAP15,3.6866574,T memory cells,Immune system
+40,FLI1,3.8086343,B cells,Immune system
+40,FLI1,3.8086343,B cells,Immune system
+40,FLI1,3.8086343,B cells,Immune system
+40,FLI1,3.8086343,B cells,Immune system
+40,FLI1,3.8086343,Megakaryocytes,Immune system
+40,FLI1,3.8086343,Megakaryocytes,Immune system
+40,FLI1,3.8086343,Megakaryocytes,Immune system
+40,FLI1,3.8086343,Megakaryocytes,Immune system
+40,ADGRE5,3.854855,Macrophages,Immune system
+40,ADGRE5,3.854855,Macrophages,Immune system
+40,ITGAL,4.174557,Basophils,Immune system
+40,ITGAL,4.174557,Macrophages,Immune system
+40,ITGAL,4.174557,Monocytes,Immune system
+40,PYHIN1,5.006677,T cells,Immune system
+40,PYHIN1,5.006677,T cells,Immune system
+40,PYHIN1,5.006677,T cells,Immune system
+40,PYHIN1,5.006677,T cells,Immune system
+40,SLA,3.6651165,Mast cells,Immune system
+40,BCL2,3.695172,T cells,Immune system
+40,BCL2,3.695172,T cells,Immune system
+40,BCL2,3.695172,T cells,Immune system
+40,BCL2,3.695172,T memory cells,Immune system
+40,BCL2,3.695172,T memory cells,Immune system
+40,BCL2,3.695172,T memory cells,Immune system
+40,SAMD3,4.95783,NK cells,Immune system
+40,SAMD3,4.95783,NK cells,Immune system
+40,PTPN22,4.708956,T cells,Immune system
+40,PTPN22,4.708956,T cells,Immune system
+40,PTPN22,4.708956,T cells,Immune system
+40,NCAM1,4.7757254,Natural killer T cells,Immune system
+40,NCAM1,4.7757254,Natural killer T cells,Immune system
+40,ITK,5.1966887,T cells,Immune system
+40,ITK,5.1966887,T cells,Immune system
+40,IL2RB,4.638191,Natural killer T cells,Immune system
+40,IL2RB,4.638191,Natural killer T cells,Immune system
+40,IL2RB,4.638191,Natural killer T cells,Immune system
+40,IL2RB,4.638191,Natural killer T cells,Immune system
+40,IL2RB,4.638191,NK cells,Immune system
+40,IL2RB,4.638191,NK cells,Immune system
+40,IL2RB,4.638191,NK cells,Immune system
+40,IL2RB,4.638191,NK cells,Immune system
+40,IL2RB,4.638191,T cells,Immune system
+40,IL2RB,4.638191,T cells,Immune system
+40,IL2RB,4.638191,T cells,Immune system
+40,IL2RB,4.638191,T cells,Immune system
+40,CD38,3.5683348,B cells,Immune system
+40,CD38,3.5683348,B cells,Immune system
+40,CD38,3.5683348,B cells,Immune system
+40,CD38,3.5683348,B cells memory,Immune system
+40,CD38,3.5683348,B cells memory,Immune system
+40,CD38,3.5683348,B cells memory,Immune system
+40,CD38,3.5683348,Kupffer cells,Liver
+40,CD38,3.5683348,Kupffer cells,Liver
+40,CD38,3.5683348,Kupffer cells,Liver
+40,CD38,3.5683348,Plasma cells,Immune system
+40,CD38,3.5683348,Plasma cells,Immune system
+40,CD38,3.5683348,Plasma cells,Immune system
+40,NCR1,5.680399,NK cells,Immune system
+40,NCR1,5.680399,NK cells,Immune system
+40,NCR1,5.680399,NK cells,Immune system
+40,LCK,3.9231086,T cells,Immune system
+40,LCK,3.9231086,T cells,Immune system
+40,LCK,3.9231086,T cells,Immune system
+40,LCK,3.9231086,T cells,Immune system
+40,LCK,3.9231086,T memory cells,Immune system
+40,LCK,3.9231086,T memory cells,Immune system
+40,LCK,3.9231086,T memory cells,Immune system
+40,LCK,3.9231086,T memory cells,Immune system
+40,BCL11B,4.366102,Nuocytes,Immune system
+40,BCL11B,4.366102,Nuocytes,Immune system
+40,RHOH,3.7616417,T cells,Immune system
+40,RHOH,3.7616417,T cells,Immune system
+40,RHOH,3.7616417,T memory cells,Immune system
+40,RHOH,3.7616417,T memory cells,Immune system
+40,OSBPL5,3.6721559,Basophils,Immune system
+40,OSBPL5,3.6721559,Basophils,Immune system
+40,CD6,3.7862494,T cells,Immune system
+40,CD6,3.7862494,T cells,Immune system
+40,CD6,3.7862494,T cells,Immune system
+41,TAT,4.368266,Hepatocytes,Liver
+41,TAT,4.368266,Hepatocytes,Liver
+41,TAT,4.368266,Hepatocytes,Liver
+41,TAT,4.368266,Hepatocytes,Liver
+41,TAT,4.368266,Hepatocytes,Liver
+41,TAT,4.368266,Hepatocytes,Liver
+41,TAT,4.368266,Hepatocytes,Liver
+41,ASS1,3.6708698,Dendritic cells,Immune system
+41,ASS1,3.6708698,Dendritic cells,Immune system
+41,ASS1,3.6708698,Dendritic cells,Immune system
+41,ASS1,3.6708698,Dendritic cells,Immune system
+41,ASS1,3.6708698,Dendritic cells,Immune system
+41,ASS1,3.6708698,Dendritic cells,Immune system
+41,ASS1,3.6708698,Hepatocytes,Liver
+41,ASS1,3.6708698,Hepatocytes,Liver
+41,ASS1,3.6708698,Hepatocytes,Liver
+41,ASS1,3.6708698,Hepatocytes,Liver
+41,ASS1,3.6708698,Hepatocytes,Liver
+41,ASS1,3.6708698,Hepatocytes,Liver
+41,RHOB,3.5983036,Hepatocytes,Liver
+41,RHOB,3.5983036,Hepatocytes,Liver
+41,KRT8,3.7002547,Hepatoblasts,Liver
+41,TM4SF4,3.5093718,Hepatocytes,Liver
+41,SOX9,3.5367987,Cholangiocytes,Liver
+41,FXYD2,6.346839,Cholangiocytes,Liver
+41,FXYD2,6.346839,Cholangiocytes,Liver
+41,BIRC3,3.6114829,B cells,Immune system
+41,BIRC3,3.6114829,B cells naive,Immune system
+41,LGALS4,4.8204145,Cholangiocytes,Liver
+41,LGALS4,4.8204145,Cholangiocytes,Liver
+41,CLDN4,3.7685082,Cholangiocytes,Liver

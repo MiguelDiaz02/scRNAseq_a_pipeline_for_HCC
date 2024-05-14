@@ -1,0 +1,9 @@
+group,names,logfoldchanges,cell.type,organ
+30,ST6GALNAC3,7.594184,Mast cells,Immune system
+35,MZB1,10.786042,B cells,Immune system
+35,MZB1,10.786042,Plasma cells,Immune system
+35,MZB1,10.786042,Plasmacytoid dendritic cells,Immune system
+38,KLRB1,7.686408,Natural killer T cells,Immune system
+38,KLRB1,7.686408,NK cells,Immune system
+38,KLRB1,7.686408,T cells,Immune system
+39,FXYD2,7.677641,Cholangiocytes,Liver

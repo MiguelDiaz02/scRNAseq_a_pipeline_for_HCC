@@ -1,0 +1,29 @@
+group,names,logfoldchanges,cell.type,organ
+1,CCL5,6.727941,Eosinophils,Immune system
+1,CCL5,6.727941,Gamma delta T cells,Immune system
+1,CCL5,6.727941,Macrophages,Immune system
+1,CCL5,6.727941,NK cells,Immune system
+1,CCL5,6.727941,T cells,Immune system
+9,S100A12,6.9700055,Monocytes,Immune system
+21,EBF1,6.6295567,B cells,Immune system
+30,ST6GALNAC3,7.594184,Mast cells,Immune system
+33,NCAM1,6.642477,Natural killer T cells,Immune system
+35,MZB1,10.786042,B cells,Immune system
+35,MZB1,10.786042,Plasma cells,Immune system
+35,MZB1,10.786042,Plasmacytoid dendritic cells,Immune system
+35,POU2AF1,7.415149,B cells,Immune system
+38,KLRB1,7.686408,Natural killer T cells,Immune system
+38,KLRB1,7.686408,NK cells,Immune system
+38,KLRB1,7.686408,T cells,Immune system
+38,GZMA,6.7297416,Gamma delta T cells,Immune system
+38,GZMA,6.7297416,NK cells,Immune system
+38,GZMA,6.7297416,T cells,Immune system
+38,IL2RB,6.972657,Natural killer T cells,Immune system
+38,IL2RB,6.972657,NK cells,Immune system
+38,IL2RB,6.972657,T cells,Immune system
+38,CLIC3,6.5710816,Gamma delta T cells,Immune system
+39,FXYD2,7.677641,Cholangiocytes,Liver
+40,CD247,7.1872783,Gamma delta T cells,Immune system
+40,CD247,7.1872783,NK cells,Immune system
+40,CD247,7.1872783,T cells,Immune system
+40,CD247,7.1872783,T memory cells,Immune system
