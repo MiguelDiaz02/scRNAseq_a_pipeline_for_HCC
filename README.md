@@ -7,7 +7,7 @@ This repository contains the code and resources associated with single cell anal
 <h1 align="center">Abstract</h1>
 
 <p align="center">
-  <img src="figures/Graphical_abstract-Maestria2.png" alt="Graphical abstract" width="600"/>
+  <img src="figures/Graphical_abstract-Maestria2.png" alt="Graphical abstract" width="1000"/>
 </p>
 
 ## References and Acknowledgments
