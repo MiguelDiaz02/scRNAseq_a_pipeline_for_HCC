@@ -4,7 +4,7 @@ This repository contains the code and resources associated with single cell anal
 
 #Abstract
 
-![Graphical abstract](/home/mdiaz/Documents/scRNAseq_a_pipeline_for_HCC/figures/Graphical_abstract-Maestria.png)
+![Graphical abstract](/scRNAseq_a_pipeline_for_HCC/figures/Graphical_abstract-Maestria.png)
 
 ## References and Acknowledgments
 
