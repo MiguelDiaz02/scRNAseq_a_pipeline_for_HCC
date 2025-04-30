@@ -2,9 +2,13 @@
 
 This repository contains the code and resources associated with single cell analysis using Jupyter Notebook and the Scanpy library.
 
-#Abstract
+# Abstract
 
-![Graphical abstract](/figures/Graphical_abstract-Maestria.png)
+<h1 align="center">Abstract</h1>
+
+<p align="center">
+  <img src="figures/Graphical_abstract-Maestria.png" alt="Graphical abstract" width="600"/>
+</p>
 
 ## References and Acknowledgments
 
