@@ -30,7 +30,7 @@ To run the notebook of this project, the following libraries need to be installe
 - scipy (v. 1.13.0)
 - matplotlib (v. 3.8.4)
 - anndata (v. 0.10.5.post1)
-- scanpy (v. 1.10.0.dev198+g89869212)
+- scanpy (v. 1.10.0)
 - seaborn (v. 0.13.2)
 - scvi (v. 1.0.4)
 
