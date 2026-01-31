@@ -1,0 +1,13 @@
+name: liana_kernel
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - scanpy
+  - numpy[version='<2']
+  - matplotlib
+  - ipykernel
+  - pandas
+  - anndata
+prefix: /home/mdiaz/miniconda3/envs/liana_kernel
