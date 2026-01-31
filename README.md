@@ -22,19 +22,9 @@ This project is based on the best practices and tutorials from the scientific co
 
 To run the notebook of this project, the following libraries need to be installed (the version used for this analysis is also added):
 
-### Python:
+### Python kernels:
 
-- gdown (v. 4.7.3)
-- pandas (v. 2.2.0)
-- numpy (v. 1.24.1)
-- scipy (v. 1.13.0)
-- matplotlib (v. 3.8.4)
-- anndata (v. 0.10.5.post1)
-- scanpy (v. 1.10.0)
-- seaborn (v. 0.13.2)
-- scvi (v. 1.0.4)
-
-You can install these dependencies using pip:
+You can install these conda environments and mount as jupyter kernels using:
 
 ```bash
-pip install gdown pandas numpy scipy matplotlib anndata scanpy seaborn scvi
+conda env create -f <CHOOSE_AN_ENVIRONMENT.yml>
