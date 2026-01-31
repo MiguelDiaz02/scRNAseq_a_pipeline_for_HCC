@@ -1,0 +1,16 @@
+name: hcc_main
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - ipykernel
+  - scanpy
+  - pytorch
+  - pandas
+  - scvi-tools
+  - anndata
+  - numpy
+  - scipy
+prefix: /home/mdiaz/miniconda3/envs/sc_kernel
